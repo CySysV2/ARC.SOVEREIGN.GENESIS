@@ -1,0 +1,16 @@
+﻿{
+    "domains":  {
+                    "g-i-l-c.com":  "/ipfs/QmGILCRootCID...",
+                    "cy-systems.com":  "/ipfs/QmCYSYSComCID...",
+                    "yellowchain.org":  "/ipfs/QmYELLOWCID...",
+                    "cy-sys.org":  "/ipfs/QmCYSYSOrgCID...",
+                    "citizen.solar":  "/ipfs/QmCITSolarCID...",
+                    "harvest-exchange.com":  "/ipfs/QmHARVCID...",
+                    "renewable-exchange.com":  "/ipfs/QmRECID...",
+                    "digital-fabrica.com":  "/ipfs/QmDFRootCID..."
+                },
+    "signed_by":  "Node0",
+    "proof":  "epoch.sig",
+    "verification":  "Gospel-ZK",
+    "epoch":  "ΣΩΩ.4.0"
+}
