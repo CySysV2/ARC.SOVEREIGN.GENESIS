@@ -1,0 +1,12 @@
+{
+  "name": "arc-sovereign-genesis",
+  "private": true,
+  "workspaces": [
+    "web-projects/*"
+  ],
+  "scripts": {
+    "dev": "echo 'Attach your dev script here'",
+    "build": "echo 'Attach your build script here'",
+    "test": "echo 'Attach your test script here'"
+  }
+}
