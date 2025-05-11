@@ -17,7 +17,7 @@ $QuantumDirs = @('metrics', 'exports', 'scripts', 'logs', 'vaults', 'archive', '
 
 function Write-Log {
     param([string]$Msg, [string]$Level = 'INFO')
-    $line = "[$([DateTime]::Now.ToString('yyyy-MM-dd HH:mm:ss'))] [$Level] $Msg"
+    $line = "[$(Get-Date -Format yyyy-MM-dd HH:mm:ss)] [$Level] $Msg"
     Write-Host $line
     Add-Content -Path $LogFile -Value $line
 }
