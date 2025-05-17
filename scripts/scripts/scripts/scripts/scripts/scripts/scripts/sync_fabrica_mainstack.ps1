@@ -84,3 +84,6 @@ foreach ($dir in $QuantumDirs) {
 }
 
 Write-Log "Quantum Harmonic Sync complete. Review $LogFile for details."
+
+# Execute directory validation
+& "C:\DFT_GCC_TRIAD_MAINSTACK\scripts\verify_and_create_dirs.ps1"

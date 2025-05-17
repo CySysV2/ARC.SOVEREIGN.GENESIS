@@ -1,0 +1,15 @@
+{
+  "epoch": "ΣΩΩ.4.0",
+  "status": "finalized",
+  "files": [
+    "registry.json",
+    "epoch.sig",
+    "vote-ledger.json",
+    "zk-trail.log",
+    "codex-modulation/modulation-ΣΩΩ.4.0.json",
+    "codex-memory/memory-ΣΩΩ.4.0.json",
+    "codex-learn-snapshot.json",
+    "status.json"
+  ]
+}
+

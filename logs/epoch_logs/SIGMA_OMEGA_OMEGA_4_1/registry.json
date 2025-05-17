@@ -1,0 +1,9 @@
+{
+  "epoch": "SIGMA_OMEGA_OMEGA_4_1",
+  "domains": {},
+  "proof": "epoch.sig",
+  "signed_by": "Node0",
+  "verification": "Gospel-ZK",
+  "operator": "Ivan Pasev (11411)",
+  "notes": "Genesis registry for new epoch."
+} 

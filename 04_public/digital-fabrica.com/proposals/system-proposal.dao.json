@@ -1,0 +1,15 @@
+{
+  "title": "Epoch ΣΩΩ.4.0 Canonical Declaration",
+  "category": "epoch_declaration",
+  "linked_domain": "digital-fabrica.com",
+  "data_cid": "QmSy...SYS11411",
+  "epoch": "ΣΩΩ.4.0",
+  "provenance": "Node0_System",
+  "priority": "critical",
+  "signature": "ZK-FNS-SYSTEM-SIGNATURE",
+  "meta": {
+    "tags": ["system", "epoch", "canonical"],
+    "modulation_weight": 1.0,
+    "published": "2025-05-13T12:03:00Z"
+  }
+} 

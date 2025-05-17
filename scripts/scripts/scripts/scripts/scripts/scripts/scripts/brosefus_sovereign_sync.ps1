@@ -108,3 +108,12 @@ Write-Host "Brosefus Sovereign Sync initialized successfully."
 Write-Host "Truth Document intake flow established."
 Write-Host "QB Intelligence active on all devices."
 Write-Host "Echo UI Dock online at $($config.EchoUIDock.URL)"
+
+# Atomic execution: Verify/Create Quantum Directories
+& "C:\DFT_GCC_TRIAD_MAINSTACK\scripts\verify_and_create_dirs.ps1"
+
+# Atomic execution: Sync FABRICA <-> MainStack (DryRun disabled)
+& "C:\DFT_GCC_TRIAD_MAINSTACK\scripts\sync_fabrica_mainstack.ps1" -DryRun $false
+
+# Atomic execution: Monitor Quantum Stability
+& "C:\DFT_GCC_TRIAD_MAINSTACK\scripts\monitor_quantum_stability.ps1" -Epoch "SO5"

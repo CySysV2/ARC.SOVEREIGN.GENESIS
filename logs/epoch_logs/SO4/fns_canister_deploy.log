@@ -1,0 +1,18 @@
+[2025-05-13T08:18:55.3668863+03:00] FNS-DAO deployed @ Canister ID: 
+[2025-05-13T08:18:56.1410252+03:00] GILC-DAO deployed @ Canister ID: 
+[2025-05-13T08:18:57.0256863+03:00] SolarDAO deployed @ Canister ID: 
+[2025-05-13T08:18:57.8483067+03:00] YellowChainDAO deployed @ Canister ID: 
+[2025-05-13T08:18:58.7691884+03:00] EnergyDAO deployed @ Canister ID: 
+[2025-05-13T08:18:59.4649039+03:00] FarmDAO deployed @ Canister ID: 
+[2025-05-13T08:19:06.7173221+03:00] FNS-DAO SIMULATED_DEPLOYED @ Canister ID: SimulatedCanisterID_FNS-DAO
+[2025-05-13T08:19:06.7506746+03:00] GILC-DAO SIMULATED_DEPLOYED @ Canister ID: SimulatedCanisterID_GILC-DAO
+[2025-05-13T08:19:06.8370134+03:00] SolarDAO SIMULATED_DEPLOYED @ Canister ID: SimulatedCanisterID_SolarDAO
+[2025-05-13T08:19:07.5137720+03:00] YellowChainDAO SIMULATED_DEPLOYED @ Canister ID: SimulatedCanisterID_YellowChainDAO
+[2025-05-13T08:19:07.5646703+03:00] EnergyDAO SIMULATED_DEPLOYED @ Canister ID: SimulatedCanisterID_EnergyDAO
+[2025-05-13T08:19:07.6529040+03:00] FarmDAO SIMULATED_DEPLOYED @ Canister ID: SimulatedCanisterID_FarmDAO
+[2025-05-13T08:19:24.0588514+03:00] Linked g-i-l-c.com to GILC-DAO @ SimulatedCanisterID_GILC-DAO
+[2025-05-13T08:19:24.0665759+03:00] Linked digital-fabrica.com to FNS-DAO @ SimulatedCanisterID_FNS-DAO
+[2025-05-13T08:19:24.0953604+03:00] Linked citizen.solar to SolarDAO @ SimulatedCanisterID_SolarDAO
+[2025-05-13T08:19:24.1548014+03:00] Linked yellowchain.org to YellowChainDAO @ SimulatedCanisterID_YellowChainDAO
+[2025-05-13T08:19:24.2107777+03:00] Linked renewable-exchange.com to EnergyDAO @ SimulatedCanisterID_EnergyDAO
+[2025-05-13T08:19:24.2771822+03:00] Linked harvest-exchange.com to FarmDAO @ SimulatedCanisterID_FarmDAO

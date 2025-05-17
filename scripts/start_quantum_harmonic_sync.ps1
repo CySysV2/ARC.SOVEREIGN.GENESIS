@@ -42,7 +42,7 @@ function Test-QuantumHarmonicSyncConfig {
             return $false
         }
         
-        $config = Get-Content -Path $configPath | ConvertFrom-Json -AsHashtable
+        $config = Get-Content -Path $configPath | ConvertFrom-Json
         
         # Verify required services
         $requiredServices = @(
@@ -54,7 +54,7 @@ function Test-QuantumHarmonicSyncConfig {
         )
         
         foreach ($service in $requiredServices) {
-            if (-not $config.Services.ContainsKey($service)) {
+            if (-not ($config.Services.PSObject.Properties.Name -contains $service)) {
                 Write-Log "Missing required service: ${service}" "ERROR"
                 return $false
             }

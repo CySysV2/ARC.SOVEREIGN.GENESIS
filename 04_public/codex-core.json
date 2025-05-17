@@ -1,0 +1,18 @@
+{
+  "epoch": "ΣΩΩ.4.0",
+  "codex_anchors": {
+    "digital-fabrica.com": "/codex/core-index.json",
+    "g-i-l-c.com": "/codex/math-logic-index.json",
+    "citizen.solar": "/codex/did-governance.json",
+    "yellowchain.org": "/codex/resource-ledger-index.json",
+    "renewable-exchange.com": "/codex/energy-intel.json",
+    "harvest-exchange.com": "/codex/agri-ethics.json"
+  },
+  "zk_watchdogs": {
+    "cid": "QmZKWatchdogCID",
+    "rules": ["ZKW-001", "ZKW-002", "ZKW-003", "ZKW-004"],
+    "nodes": ["SBSΩ", "Node0", "OBZ"],
+    "interval": 60
+  },
+  "verification": "Gospel-ZK"
+} 

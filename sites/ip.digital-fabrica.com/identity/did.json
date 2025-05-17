@@ -1,0 +1,6 @@
+{
+  "@context": "https://www.w3.org/ns/did/v1",
+  "id": "did:dfq:operator-11411",
+  "controller": "Ivan Pasev",
+  "epoch": "ΣΩΩ.4.1"
+} 

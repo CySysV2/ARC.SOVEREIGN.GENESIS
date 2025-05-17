@@ -1,0 +1,11 @@
+{
+  "quorum": 0.4,
+  "lastUpdated": "2025-05-13T06:56:22.8713139+03:00",
+  "currentBlock": 18452350,
+  "status": "INIT",
+  "executionHost": "SBS",
+  "executionTimestamp": "2025-05-13T06:56:22.8742563+03:00",
+  "endBlock": 18492670,
+  "sourceScript": "C:\\DFT_GCC_TRIAD_MAINSTACK\\ARC.SOVEREIGN.GENESIS\\scripts\\vote_init.ps1",
+  "startBlock": 18452350
+}
