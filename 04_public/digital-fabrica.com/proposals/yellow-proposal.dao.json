@@ -1,0 +1,15 @@
+{
+  "title": "Activate YellowChain Module for Supply Chain Traceability",
+  "category": "module_activation",
+  "linked_domain": "digital-fabrica.com",
+  "data_cid": "QmYw...YLC11411",
+  "epoch": "ΣΩΩ.4.0",
+  "provenance": "Operator_11411",
+  "priority": "high",
+  "signature": "ZK-FNS-YELLOW-SIGNATURE",
+  "meta": {
+    "tags": ["supply_chain", "yellowchain", "logistics"],
+    "modulation_weight": 0.95,
+    "published": "2025-05-13T12:01:00Z"
+  }
+} 

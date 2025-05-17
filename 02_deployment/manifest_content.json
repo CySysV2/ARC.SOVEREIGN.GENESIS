@@ -1,0 +1,55 @@
+{
+  "epoch": "SO4",
+  "description": "Deployment Manifest Content for Gospel Cascade SO4",
+  "components": [
+    {
+      "name": "fabrica-api",
+      "version": "1.2.0",
+      "source_repo": "git@github.com:digital-fabrica/api.git",
+      "commit_hash": "sim_commit_fabrica_api_120",
+      "docker_image": "fabrica-api:1.2.0",
+      "checksum": "sim_sha256_fabrica_api_120"
+    },
+    {
+      "name": "gilc-api",
+      "version": "1.0.0",
+      "source_repo": "git@github.com:g-i-l-c/api.git",
+      "commit_hash": "sim_commit_gilc_api_100",
+      "docker_image": "gilc-api:1.0.0",
+      "checksum": "sim_sha256_gilc_api_100"
+    },
+    {
+      "name": "yellowchain-ledger",
+      "version": "0.5.0",
+      "source_repo": "git@github.com:yellowchain/ledger.git",
+      "commit_hash": "sim_commit_yc_ledger_050",
+      "docker_image": "yellowchain-ledger:0.5.0",
+      "checksum": "sim_sha256_yc_ledger_050"
+    },
+    {
+      "name": "rex-core",
+      "version": "2.1.0",
+      "source_repo": "git@github.com:renewable-exchange/core.git",
+      "commit_hash": "sim_commit_rex_core_210",
+      "docker_image": "rex-core:2.1.0",
+      "checksum": "sim_sha256_rex_core_210"
+    },
+    {
+      "name": "harvex-processor",
+      "version": "1.8.5",
+      "source_repo": "git@github.com:harvest-exchange/processor.git",
+      "commit_hash": "sim_commit_harvex_proc_185",
+      "docker_image": "harvex-processor:1.8.5",
+      "checksum": "sim_sha256_harvex_proc_185"
+    },
+    {
+      "name": "fns-dao-canister",
+      "version": "0.8.0",
+      "source_repo": "git@github.com:dft-gcc-triad/fns-dao.git",
+      "commit_hash": "sim_commit_fns_dao_080",
+      "wasm_checksum": "sim_sha256_fns_dao_080.wasm"
+    }
+  ],
+  "registry_reference": "02_deployment/registry.json",
+  "build_timestamp": "2025-05-13T08-58-16.4471082+03-00"
+} 

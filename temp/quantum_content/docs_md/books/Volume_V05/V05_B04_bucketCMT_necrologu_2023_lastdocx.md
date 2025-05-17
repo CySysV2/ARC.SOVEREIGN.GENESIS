@@ -1,0 +1,16 @@
+---
+title: bucket\CMT necrologuе 2023 last.docx
+date: 2025-05-05
+tags: [DFT, Quantum, Operator, Synced]
+quantum_sync: true
+---
+# bucket\CMT necrologuе 2023 last.docx
+
+## Abstract
+
+## Table of Contents
+
+## Chapters
+
+## References
+

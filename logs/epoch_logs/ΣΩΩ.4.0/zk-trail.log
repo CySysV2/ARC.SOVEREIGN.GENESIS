@@ -1,0 +1,7 @@
+{
+  "epoch": "ΣΩΩ.4.0",
+  "zkTrail": [
+    { "step": 1, "hash": "PLACEHOLDER_HASH_1" },
+    { "step": 2, "hash": "PLACEHOLDER_HASH_2" }
+  ]
+} 

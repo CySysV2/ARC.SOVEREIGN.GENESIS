@@ -8,5 +8,8 @@
     "dev": "echo 'Attach your dev script here'",
     "build": "echo 'Attach your build script here'",
     "test": "echo 'Attach your test script here'"
+  },
+  "dependencies": {
+    "vitepress": "^1.6.3"
   }
 }

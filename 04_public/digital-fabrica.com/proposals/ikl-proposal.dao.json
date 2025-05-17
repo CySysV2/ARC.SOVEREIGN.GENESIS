@@ -1,0 +1,15 @@
+{
+  "title": "Register IKL Subdomain as Research Backbone",
+  "category": "infrastructure",
+  "linked_domain": "digital-fabrica.com",
+  "data_cid": "QmXy...IKL11411",
+  "epoch": "ΣΩΩ.4.0",
+  "provenance": "Operator_11411",
+  "priority": "critical",
+  "signature": "ZK-FNS-IKL-SIGNATURE",
+  "meta": {
+    "tags": ["knowledge", "infinite", "index"],
+    "modulation_weight": 0.98,
+    "published": "2025-05-13T12:00:00Z"
+  }
+} 

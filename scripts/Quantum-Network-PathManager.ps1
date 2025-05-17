@@ -217,7 +217,7 @@ try {
     Write-QuantumLog "✨ Network path management complete"
 }
 catch {
-    Write-QuantumLog "💥 Critical error: $($_.Exception.Message)" -Level "ERROR"
+    Write-QuantumLog "Critical error: $($_.Exception.Message)" -Level "ERROR"
     throw $_
 }
 finally {

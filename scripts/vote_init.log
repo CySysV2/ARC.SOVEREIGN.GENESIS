@@ -1,0 +1,6 @@
+ParserError: C:\DFT_GCC_TRIAD_MAINSTACK\ARC.SOVEREIGN.GENESIS\scripts\vote_init.ps1:76:37
+Line |
+  76 |      Write-Log "Verifying content of $statusFileFullPath:"
+     |                                      ~~~~~~~~~~~~~~~~~~~~
+     | Variable reference is not valid. ':' was not followed by a valid variable name character. Consider
+     | using ${} to delimit the name.
