@@ -2,13 +2,16 @@ import dns.resolver
 import datetime
 
 sites = {
-    "digital-fabrica.com": "QmNS8d6pNBB9q1BSTRoFkYuFshgwxRGL5yuC4wcPGH6JFN",
-    "blog.digital-fabrica.com": "QmXerw5WcbrD7ckg29zEhYSyiuu58nf1BdyWZ326E5YDvC",
-    "civic.digital-fabrica.com": "Qme57DKJ88v9Ufpemb6Cb5Cds7C5CwnPFioKijbjmUsPDF",
-    "fabrics.digital-fabrica.com": "QmUwVmNSNB5SJ5bHh1rZX3cgQreBUAs3ZD5b8pqDNQyYFq",
-    "whitepaper.digital-fabrica.com": "QmPkY3iHbRLQqJrVFz5k18Br4on3NAeYbKhDbdmEV27j2Q",
-    "ip.digital-fabrica.com": "QmfRS373ENWr6yB7nCXPmc6rXrpdu5qc3qDQW4wMW2nsfG",
-    "qic.digital-fabrica.com": "QmYvKBRRazxF7X25EsCURU7EkqExT6DrXYt4ErrojG4NcP"
+    "digital-fabrica.com": "QmMainCID20250519",
+    "blog.digital-fabrica.com": "QmBlogCID20250519",
+    "civic.digital-fabrica.com": "QmCivicCID20250519",
+    "fabrics.digital-fabrica.com": "QmFabricsCID20250519",
+    "whitepaper.digital-fabrica.com": "QmWhitepaperCID20250519",
+    "media.digital-fabrica.com": "QmMediaCID20250519",
+    "qic.digital-fabrica.com": "QmQicCID20250519",
+    "monad.digital-fabrica.com": "QmMonadCID20250519",
+    "tc.digital-fabrica.com": "QmTangraChainCID20250519",
+    "ikl.digital-fabrica.com": "QmIKLCID20250519"
 }
 
 timestamp = datetime.datetime.utcnow().isoformat() + "Z"
