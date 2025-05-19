@@ -1,0 +1,18 @@
+{
+  "epoch": "ΣΩΩ.4.0",
+  "timestamp": "2025-05-18T10:30:00Z",
+  "chains": [
+    {
+      "id": "YC-001",
+      "name": "Primary Chain",
+      "status": "active"
+    }
+  ],
+  "nodes": [
+    {
+      "id": "NODE-001",
+      "chain_id": "YC-001",
+      "status": "online"
+    }
+  ]
+} 

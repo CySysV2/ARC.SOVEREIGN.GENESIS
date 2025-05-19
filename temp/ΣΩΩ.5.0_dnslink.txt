@@ -1,0 +1,3 @@
+_dnslink.digital-fabrica.com
+TXT
+dnslink=/ipfs/QmbkbEdLNCqGzsvvNChenBHZXz6jynCyBF6GPmXQqqU9Gg

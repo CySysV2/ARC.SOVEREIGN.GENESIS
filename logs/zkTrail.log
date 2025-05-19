@@ -1,0 +1,11 @@
+ΣΩΩ.4.2:11411::MergedProofs::CID=
+ΣΩΩ.5.0::FORK_START::11411
+ΣΩΩ.5.0::FEDERATION_SYNC::All Relays Contacted::2025-05-18T22:13:35Z
+SOO.5.0::FEDERATION_SYNC::All Relays Contacted::2025-05-18T22:13:50Z
+ΣΩΩ.5.0::SYNC_CIVICDASH_UI::QmbkbEdLNCqGzsvvNChenBHZXz6jynCyBF6GPmXQqqU9Gg
+ΣΩΩ.5.0::LOGIC_REPLICATION_SIGNAL→agent-ΣΩΩ.5.0-11411
+ΣΩΩ.5.0::PROPAGATION_FORK::agent-11411→CivicDash,IKL,YCN,Node0,C-Station
+ΣΩΩ.5.0::MESH_HEALTHCHECK::COMPLETE
+ΣΩΩ.5.0::CID_REGISTRY_PUBLISHED::2025-05-18T20:40:26Z
+ΣΩΩ.5.0::DNS_VERIFY::2025-05-19T04:31:32.203099Z::digital-fabrica.com:MISMATCH:dnslink=/ipns/k51qzi5uqu5di4rg14o1bm62h1yxfqsnp01qk56t950jkwsnkpixwmzhludx7x|digital-fabrica.com:NOT_FOUND|blog.digital-fabrica.com:FAIL:The DNS query name does not exist: _dnslink.blog.digital-fabrica.com.|civic.digital-fabrica.com:MISMATCH:dnslink=/ipfs/QmejmaAPs6qsRSLkckCaJQXuTxKL8pZEpf1oUw23NpBuWc|civic.digital-fabrica.com:NOT_FOUND|fabrics.digital-fabrica.com:FAIL:The DNS query name does not exist: _dnslink.fabrics.digital-fabrica.com.|whitepaper.digital-fabrica.com:FAIL:The DNS query name does not exist: _dnslink.whitepaper.digital-fabrica.com.|ip.digital-fabrica.com:MISMATCH:dnslink=/ipfs/QmXyEqin6hqUDDFNfk7BJi9GQedY3vQoh5S3YusmrW2kuj|ip.digital-fabrica.com:NOT_FOUND|qic.digital-fabrica.com:MISMATCH:dnslink=/ipfs/QmZwdBXho46sVH9wghv4aicX1iwvCVmezsHRcPFSDTSucL|qic.digital-fabrica.com:NOT_FOUND
+ΣΩΩ.5.0::DNS_VERIFY::2025-05-19T05:54:35.467035Z::digital-fabrica.com:MISMATCH:dnslink=/ipns/k51qzi5uqu5di4rg14o1bm62h1yxfqsnp01qk56t950jkwsnkpixwmzhludx7x|digital-fabrica.com:NOT_FOUND|blog.digital-fabrica.com:FAIL:The DNS query name does not exist: _dnslink.blog.digital-fabrica.com.|civic.digital-fabrica.com:FAIL:The DNS query name does not exist: _dnslink.civic.digital-fabrica.com.|fabrics.digital-fabrica.com:FAIL:The DNS query name does not exist: _dnslink.fabrics.digital-fabrica.com.|whitepaper.digital-fabrica.com:FAIL:The DNS query name does not exist: _dnslink.whitepaper.digital-fabrica.com.|ip.digital-fabrica.com:MISMATCH:dnslink=/ipfs/QmXyEqin6hqUDDFNfk7BJi9GQedY3vQoh5S3YusmrW2kuj|ip.digital-fabrica.com:NOT_FOUND|qic.digital-fabrica.com:FAIL:The DNS query name does not exist: _dnslink.qic.digital-fabrica.com.

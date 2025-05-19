@@ -1,0 +1,13 @@
+{
+  "operator_id": "11411",
+  "sig": "ivpasev-ΣΩΩ.4.1-merge",
+  "content": [
+    "ip.digital-fabrica.com/research/*.md",
+    "legal/ip-claims.md",
+    "proofs/*.lean",
+    "proofs/*.v",
+    "identity/did.json"
+  ],
+  "status": "merged",
+  "epoch": "ΣΩΩ.4.2"
+} 

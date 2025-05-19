@@ -4,7 +4,7 @@
 const fs = require('fs');
 const path = require('path');
 
-const DAO_SOURCE = 'C:\\FABRICA\\frontend\\dao';
+const DATA_SOURCE = path.join(__dirname, '../../mock-data');
 
 export default async function handler(req, res) {
   try {
@@ -13,7 +13,7 @@ export default async function handler(req, res) {
     const categories = ['ikl', 'yellowchain', 'cysys', 'dao', 'tangra', 'dft-core'];
     
     for (const category of categories) {
-      const filePath = path.join(DAO_SOURCE, `${category}.dao.json`);
+      const filePath = path.join(DATA_SOURCE, `${category}-frontend.json`);
       if (fs.existsSync(filePath)) {
         daoAssets[category] = JSON.parse(fs.readFileSync(filePath));
       }

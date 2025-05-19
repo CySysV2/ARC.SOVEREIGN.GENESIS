@@ -1,0 +1,16 @@
+{
+  "epoch": "ΣΩΩ.5.0++",
+  "map": {
+    "digital-fabrica.com": "QmMainCID20250519",
+    "blog.digital-fabrica.com": "QmBlogCID20250519",
+    "civic.digital-fabrica.com": "QmCivicCID20250519",
+    "fabrics.digital-fabrica.com": "QmFabricsCID20250519",
+    "whitepaper.digital-fabrica.com": "QmWhitepaperCID20250519",
+    "media.digital-fabrica.com": "QmMediaCID20250519",
+    "qic.digital-fabrica.com": "QmQicCID20250519",
+    "monad.digital-fabrica.com": "QmMonadCID20250519",
+    "tc.digital-fabrica.com": "QmTangraChainCID20250519",
+    "ikl.digital-fabrica.com": "QmIKLCID20250519"
+  },
+  "timestamp": "2025-05-19T09:00:00Z"
+}

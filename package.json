@@ -1,15 +1,26 @@
 {
   "name": "arc-sovereign-genesis",
   "private": true,
+  "type": "module",
   "workspaces": [
     "web-projects/*"
   ],
   "scripts": {
     "dev": "echo 'Attach your dev script here'",
     "build": "echo 'Attach your build script here'",
-    "test": "echo 'Attach your test script here'"
+    "test": "echo 'Attach your test script here'",
+    "build:blog": "vitepress build sites/blog",
+    "build:civic": "vitepress build sites/civic",
+    "build:ip": "vitepress build sites/ip.digital-fabrica.com",
+    "build:qic": "vitepress build sites/qic.digital-fabrica.com",
+    "build:whitepaper": "vitepress build sites/whitepaper",
+    "build:fabrics": "vitepress build sites/fabrics",
+    "build:media": "vitepress build sites/media.digital-fabrica.com",
+    "build:monad": "vitepress build sites/monad.digital-fabrica.com",
+    "build:tc": "vitepress build sites/tc.digital-fabrica.com"
   },
   "dependencies": {
+    "ssh2-sftp-client": "^12.0.0",
     "vitepress": "^1.6.3"
   }
 }

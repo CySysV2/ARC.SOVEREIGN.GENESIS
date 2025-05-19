@@ -4,7 +4,7 @@
 const fs = require('fs');
 const path = require('path');
 
-const DATA_SOURCE = 'C:\\FABRICA\\frontend';
+const DATA_SOURCE = path.join(__dirname, '../../mock-data');
 
 export default async function handler(req, res) {
   try {

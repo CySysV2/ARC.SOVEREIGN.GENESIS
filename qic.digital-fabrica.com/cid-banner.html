@@ -1,0 +1,8 @@
+<div id='cid-banner' style='background:#222;color:#fff;padding:8px;text-align:center;'></div>
+<script>
+fetch('/api/latest_cid.php')
+  .then(res => res.json())
+  .then(data => {
+    document.getElementById('cid-banner').innerText = `Epoch ${data.epoch} — CID: ${data.cid}`;
+  });
+</script> 

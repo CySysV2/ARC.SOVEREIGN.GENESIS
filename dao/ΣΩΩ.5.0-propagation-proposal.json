@@ -1,0 +1,14 @@
+{
+  "proposal_id": "\u00ce\u00a3\u00ce\u00a9\u00ce\u00a9.5.0-propagation-11411",
+  "origin": "agent-\u00ce\u00a3\u00ce\u00a9\u00ce\u00a9.5.0-11411",
+  "cid": "QmbkbEdLNCqGzsvvNChenBHZXz6jynCyBF6GPmXQqqU9Gg",
+  "status": "emitted",
+  "targets": [
+    "CivicDash",
+    "Node0",
+    "IKL",
+    "YCN",
+    "C-Station"
+  ],
+  "issued_at": "2025-05-18T19:49:23Z"
+}

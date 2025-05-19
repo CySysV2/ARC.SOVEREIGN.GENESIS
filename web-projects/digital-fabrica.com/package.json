@@ -1,0 +1,12 @@
+{
+  "name": "digital-fabrica.com",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "vitepress dev src/pages",
+    "build": "vitepress build src/pages",
+    "preview": "vitepress preview src/pages"
+  },
+  "dependencies": {
+    "vitepress": "^1.6.3"
+  }
+} 

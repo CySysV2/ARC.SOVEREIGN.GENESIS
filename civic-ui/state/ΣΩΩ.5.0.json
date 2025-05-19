@@ -1,0 +1,8 @@
+{
+  "epoch": "ΣΩΩ.5.0",
+  "type": "federated_sync",
+  "target": ["IKL", "GILC", "YCN", "CivicDash"],
+  "cid": "QmbkbEdLNCqGzsvvNChenBHZXz6jynCyBF6GPmXQqqU9Gg",
+  "relay_status": "injected",
+  "timestamp": "2025-05-18T21:45:00Z"
+} 
