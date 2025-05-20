@@ -1,0 +1,72 @@
+{
+  "epoch": "SO4",
+  "description": "Enhanced Domain Registry for Gospel Cascade SO4",
+  "domains": {
+    "digital-fabrica.com": {
+      "cid": "QmDFabc...",
+      "status": "active",
+      "services": {
+        "web": { "image": "nginx:latest", "port": 80 },
+        "api": { "image": "fabrica-api:1.2.0", "port": 8080 },
+        "dao_canister": "sim_can_df_abc..."
+      },
+      "dnslink": "/ipns/QmDFabc..."
+    },
+    "g-i-l-c.com": {
+      "cid": "QmGILCdef...",
+      "status": "active",
+      "services": {
+        "web": { "image": "nginx:latest", "port": 80 },
+        "api": { "image": "gilc-api:1.0.0", "port": 8080 },
+        "dao_canister": "sim_can_gc_def..."
+      },
+      "dnslink": "/ipns/QmGILCdef..."
+    },
+    "citizen.solar": {
+      "cid": "QmCSghi...",
+      "status": "pending",
+      "services": {
+        "web": { "image": "apache:latest", "port": 80 },
+        "dao_canister": "sim_can_cs_ghi..."
+      },
+      "dnslink": null
+    },
+    "yellowchain.org": {
+      "cid": "QmYCjkl...",
+      "status": "active",
+      "services": {
+        "web": { "image": "nginx:latest", "port": 80 },
+        "ledger_api": { "image": "yellowchain-ledger:0.5.0", "port": 9000 },
+        "dao_canister": "sim_can_yc_jkl..."
+      },
+      "dnslink": "/ipns/QmYCjkl..."
+    },
+    "renewable-exchange.com": {
+      "cid": "QmREmno...",
+      "status": "active",
+      "services": {
+        "web": { "image": "nginx:latest", "port": 80 },
+        "exchange_core": { "image": "rex-core:2.1.0", "port": 7000 },
+        "dao_canister": "sim_can_re_mno..."
+      },
+      "dnslink": "/ipns/QmREmno..."
+    },
+    "harvest-exchange.com": {
+      "cid": "QmHEpqr...",
+      "status": "active",
+      "services": {
+        "web": { "image": "nginx:latest", "port": 80 },
+        "data_processor": { "image": "harvex-processor:1.8.5", "port": 6000 },
+        "dao_canister": "sim_can_he_pqr..."
+      },
+      "dnslink": "/ipns/QmHEpqr..."
+    }
+  },
+  "metadata": {
+    "signed_by": "GenesisNode-Simulated",
+    "verification_method": "Gospel-ZK-Simulated",
+    "operator": "Ivan Pasev (11411)",
+    "timestamp": "2025-05-13T08-58-16.4471082+03-00"
+  }
+}
+

@@ -1,7 +1,7 @@
 {
   "cursor_mode": "quantum-harmonic",
   "meta_version": "1.0.3",
-  "synced_at": "2025-05-20T11:16:19.523095+00:00",
+  "synced_at": "2025-05-20T13:13:52.028529+00:00",
   "allowed_ops": [
     "vitepress:build",
     "vitepress:deploy",
