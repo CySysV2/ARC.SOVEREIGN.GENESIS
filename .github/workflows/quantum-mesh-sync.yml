@@ -1,0 +1,62 @@
+name: Quantum Mesh Sync CI
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'sites/**'
+      - 'Bridge/Registry/**'
+      - 'scripts/**'
+      - 'pinned/**'
+  workflow_dispatch:
+
+jobs:
+  sync-and-deploy:
+    name: Build, Pin, Sync, and Push Mesh
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v3
+
+      - name: Set Up Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: '18.x'
+
+      - name: Install Dependencies
+        run: |
+          npm install
+
+      - name: Build All Sites
+        run: |
+          npm run build-all-sites
+
+      - name: Run Deployment Script
+        run: |
+          node deploy.js --all
+
+      - name: Pin All Sites to IPFS
+        run: |
+          python scripts/ipfs_pin_all.py
+
+      - name: Update Registry and DNSLink
+        run: |
+          python scripts/update_registry_dnslink.py
+
+      - name: Commit and Push Changes
+        run: |
+          git config --global user.name 'DF-MeshBot'
+          git config --global user.email 'meshbot@digital-fabrica.com'
+          git add .
+          git commit -m "[CI] Auto-sync mesh state after build + pinning"
+          git push
+
+      - name: Log CI Orchestration
+        run: |
+          echo "[CI:$(date -u +"%Y-%m-%dT%H:%M:%SZ")] Quantum Mesh Sync Executed" >> logs/zkTrail.log
+
+      - name: Upload Log Artifact
+        uses: actions/upload-artifact@v3
+        with:
+          name: mesh-sync-log
+          path: logs/zkTrail.log 
