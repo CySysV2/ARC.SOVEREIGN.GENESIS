@@ -1,22 +1,19 @@
 import DefaultTheme from 'vitepress/theme'
 import Logo from './components/Logo.vue'
+import { h } from 'vue'
 import './custom.css'
 
 export default {
   ...DefaultTheme,
-  Layout() {
-    return {
-      template: `
-        <header class="navbar">
-          <Logo site="qic" variant="full" />
-          <nav>
-            <a href="/">Home</a>
-            <a href="/civic">Civic</a>
-            <a href="/whitepaper">Whitepaper</a>
-          </nav>
-        </header>
-        <DefaultTheme.Layout />
-      `
-    }
-  }
+  Layout: () => h('div', [
+    h('header', { class: 'navbar' }, [
+      h(Logo, { site: 'qic', variant: 'full' }),
+      h('nav', [
+        h('a', { href: '/' }, 'Home'),
+        h('a', { href: '/civic' }, 'Civic'),
+        h('a', { href: '/whitepaper' }, 'Whitepaper')
+      ])
+    ]),
+    h(DefaultTheme.Layout)
+  ])
 } 

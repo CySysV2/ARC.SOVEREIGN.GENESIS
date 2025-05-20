@@ -8,7 +8,7 @@ export default {
   ...DefaultTheme,
   Layout: () => h('div', [
     h('header', { class: 'navbar' }, [
-      h(Logo, { site: 'whitepaper', variant: 'full' }),
+      h(Logo, { site: 'monad', variant: 'full' }),
       h('nav', [
         h('a', { href: '/' }, 'Home'),
         h('a', { href: '/civic' }, 'Civic'),
