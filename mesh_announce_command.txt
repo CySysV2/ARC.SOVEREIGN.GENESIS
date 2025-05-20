@@ -1,0 +1,6 @@
+ipfs
+dht
+put
+--mode=all
+/ipns/k51qzi5uqu5di4rg14o1bm62h1yxfqsnp01qk56t950jkwsnkpixwmzhludx7x
+Qmc31ppLJkRV7S6XcyNAqEjLSduwKAU5yU9NecuL5CGqGD

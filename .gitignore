@@ -1,0 +1,8 @@
+# Node modules
+node_modules/
+
+# VitePress build output
+dist/
+.vitepress/dist/
+sites/*/.vitepress/dist/
+web-projects/*/.vitepress/dist/
