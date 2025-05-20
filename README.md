@@ -161,3 +161,15 @@ _dnslink.digital-fabrica.com TXT "dnslink=/ipfs/QmbkbEdLNCqGzsvvNChenBHZXz6jynCy
 > ΣΩΩ.5.0 is now the active meta-orchestration epoch. All logic, proofs, and federation anchors are ready for recursive expansion.
 
 _Last updated: 2025-05-18_
+
+## Git Push
+
+To push the changes to GitHub, run the following command:
+
+```
+git push --set-upstream origin main
+```
+
+```
+branch 'main' set up to track 'origin/main'.
+```
