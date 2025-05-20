@@ -126,33 +126,23 @@ node deploy.js --all --log deploy-digital-fabrica.log
 
 ---
 
-## CID Registry
-| Epoch         | CID                                         | IPNS Address                                                      | Timestamp (UTC)         |
-|--------------|----------------------------------------------|-------------------------------------------------------------------|-------------------------|
-| ΣΩΩ.4.2      | QmUg9KcqrVLVJjLoZrchCw8VUuQYs1xf5b4Svoy41rdU9U | k51qzi5uqu5di4rg14o1bm62h1yxfqsnp01qk56t950jkwsnkpixwmzhludx7x    | <auto-filled on pin>    |
+## Quantum Epoch CID Registry
+
+| Epoch         | CID                                 | IPNS Name                                                        |
+|--------------|--------------------------------------|------------------------------------------------------------------|
+| ΣΩΩ.4.2      | Qmc31ppLJkRV7S6XcyNAqEjLSduwKAU5yU9NecuL5CGqGD | k51qzi5uqu5di4rg14o1bm62h1yxfqsnp01qk56t950jkwsnkpixwmzhludx7x |
 
 ---
 
-### DNSLink Update
-- Set your DNS TXT record for `_dnslink.digital-fabrica.com` to:
+### Orchestration Steps (ΣΩΩ.4.2)
+- Kubo daemon started
+- Epoch directory pinned: `Qmc31ppLJkRV7S6XcyNAqEjLSduwKAU5yU9NecuL5CGqGD`
+- Published to IPNS: `/ipns/k51qzi5uqu5di4rg14o1bm62h1yxfqsnp01qk56t950jkwsnkpixwmzhludx7x`
+- DNSLink record:
   ```
   dnslink=/ipns/k51qzi5uqu5di4rg14o1bm62h1yxfqsnp01qk56t950jkwsnkpixwmzhludx7x
   ```
-
-## Full IPFS Stack Process
-1. **Start the daemon**
-2. **Pin epoch package**
-3. **Log CID in registry**
-4. **Publish to IPNS (optional)**
-5. **Update DNSLink**
-6. **Announce to mesh**
-7. **Audit and backup**
-
----
-
-For more details, see the `Bridge/Registry/epoch.sig` and relay logs.
-
----
+- Announce to mesh: `ipfs dht put --mode=all /ipns/k51qzi5uqu5di4rg14o1bm62h1yxfqsnp01qk56t950jkwsnkpixwmzhludx7x Qmc31ppLJkRV7S6XcyNAqEjLSduwKAU5yU9NecuL5CGqGD`
 
 ## ΣΩΩ.5.0 Genesis Fork (Meta-Cascade)
 

@@ -1,11 +1,13 @@
 <?php
-header("Access-Control-Allow-Origin: *");
-header("Content-Type: application/json");
-$mem = new Memcached();
-$mem->addServer("127.0.0.1", 11249);
+header('Content-Type: application/json');
+$cidFile = __DIR__ . '/../latest.cid';
+$cid = false;
+if (file_exists($cidFile)) {
+    $cid = trim(file_get_contents($cidFile));
+}
 echo json_encode([
-  "cid" => $mem->get("latest_cid"),
-  "epoch" => $mem->get("epoch_status"),
-  "synced" => $mem->get("last_sync_time")
+    'cid' => $cid,
+    'epoch' => false,
+    'synced' => false
 ]);
 ?> 

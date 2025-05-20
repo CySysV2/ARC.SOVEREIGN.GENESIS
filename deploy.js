@@ -50,6 +50,51 @@ const config = [
     local: path.join(__dirname, 'sites/whitepaper/.vitepress/dist'),
     remote: '/home/renewabl/whitepaper.digital-fabrica.com',
   },
+  {
+    name: 'blog-api',
+    local: path.join(__dirname, 'blog.digital-fabrica.com/api'),
+    remote: '/home3/renewabl/blog.digital-fabrica.com/api',
+  },
+  {
+    name: 'civic-api',
+    local: path.join(__dirname, 'civic.digital-fabrica.com/api'),
+    remote: '/home3/renewabl/civic.digital-fabrica.com/api',
+  },
+  {
+    name: 'fabrics-api',
+    local: path.join(__dirname, 'fabrics.digital-fabrica.com/api'),
+    remote: '/home3/renewabl/fabrics.digital-fabrica.com/api',
+  },
+  {
+    name: 'ip-api',
+    local: path.join(__dirname, 'ip.digital-fabrica.com/api'),
+    remote: '/home3/renewabl/ip.digital-fabrica.com/api',
+  },
+  {
+    name: 'qic-api',
+    local: path.join(__dirname, 'qic.digital-fabrica.com/api'),
+    remote: '/home3/renewabl/qic.digital-fabrica.com/api',
+  },
+  {
+    name: 'whitepaper-api',
+    local: path.join(__dirname, 'whitepaper.digital-fabrica.com/api'),
+    remote: '/home3/renewabl/whitepaper.digital-fabrica.com/api',
+  },
+  {
+    name: 'monad-api',
+    local: path.join(__dirname, 'monad.digital-fabrica.com/api'),
+    remote: '/home3/renewabl/monad.digital-fabrica.com/api',
+  },
+  {
+    name: 'tc-api',
+    local: path.join(__dirname, 'tc.digital-fabrica.com/api'),
+    remote: '/home3/renewabl/tc.digital-fabrica.com/api',
+  },
+  {
+    name: 'ikl-api',
+    local: path.join(__dirname, 'ikl.digital-fabrica.com/api'),
+    remote: '/home3/renewabl/ikl.digital-fabrica.com/api',
+  },
 ];
 
 const sftpConfig = {
@@ -79,16 +124,31 @@ function logMsg(msg, logStream) {
 }
 
 async function uploadDir(sftp, localDir, remoteDir, dryRun, logStream) {
+  // Ensure remote directory exists
+  try {
+    if (!dryRun) {
+      await sftp.mkdir(remoteDir, true);
+      logMsg(`Ensured remote directory exists: ${remoteDir}`, logStream);
+    }
+  } catch (e) {
+    logMsg(`Error ensuring remote dir: ${remoteDir} - ${e.message}`, logStream);
+  }
+  logMsg(`Uploading directory: ${localDir} -> ${remoteDir}`, logStream);
   const files = fs.readdirSync(localDir);
   for (const file of files) {
     const localPath = path.join(localDir, file);
     const remotePath = remoteDir + '/' + file;
     if (fs.lstatSync(localPath).isDirectory()) {
-      try { if (!dryRun) await sftp.mkdir(remotePath, true); } catch {}
       await uploadDir(sftp, localPath, remotePath, dryRun, logStream);
     } else {
-      logMsg(`${dryRun ? '[DRY RUN] ' : ''}Uploading: ${localPath} -> ${remotePath}`, logStream);
-      if (!dryRun) await sftp.fastPut(localPath, remotePath);
+      logMsg(`${dryRun ? '[DRY RUN] ' : ''}Uploading file: ${localPath} -> ${remotePath}`, logStream);
+      if (!dryRun) {
+        try {
+          await sftp.fastPut(localPath, remotePath);
+        } catch (e) {
+          logMsg(`Error uploading file: ${localPath} -> ${remotePath} - ${e.message}`, logStream);
+        }
+      }
     }
   }
 }
