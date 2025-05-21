@@ -1,3 +1,13 @@
-# monad.digital-fabrica.com Documentation
+# monad.digital-fabrica.com — Monad Logic Portal
 
-Updated for Epoch ΣΩΩ.5.5
+## Epoch: ΣΩΩ.5.5
+
+### Role:
+- Future recursive proof stack (cybernetics engine)
+
+### Functions:
+- Interface to monadic templates
+- Embedded symbolic engine seed
+
+### CID Status: Pinned
+### IC Canister: cybernetics_monad.mo
