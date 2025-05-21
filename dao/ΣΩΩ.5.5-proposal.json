@@ -1,0 +1,20 @@
+{
+  "epoch": "ΣΩΩ.5.5",
+  "title": "DAO Mesh Vote: Epoch Synchronization and Authority Ledger Propagation",
+  "description": "Propose mesh-wide propagation of verified CIDs and semantic relay structures.",
+  "cid_targets": {
+    "digital-fabrica.com": { "cid": "QmPLACEHOLDER1", "ic_canister": "main_mesh" },
+    "blog.digital-fabrica.com": { "cid": "QmPLACEHOLDER2", "ic_canister": "blog_mesh.mo" },
+    "civic.digital-fabrica.com": { "cid": "QmPLACEHOLDER3", "ic_canister": "civic_governance.mo" },
+    "qic.digital-fabrica.com": { "cid": "QmPLACEHOLDER4", "ic_canister": "quantum_ic.mo" },
+    "whitepaper.digital-fabrica.com": { "cid": "QmPLACEHOLDER5", "ic_canister": "fabric_docs.mo" },
+    "ip.digital-fabrica.com": { "cid": "QmPLACEHOLDER6", "ic_canister": "ip_claim.mo" },
+    "media.digital-fabrica.com": { "cid": "QmPLACEHOLDER7", "ic_canister": "media_vault.mo" },
+    "monad.digital-fabrica.com": { "cid": "QmPLACEHOLDER8", "ic_canister": "cybernetics_monad.mo" },
+    "tc.digital-fabrica.com": { "cid": "QmPLACEHOLDER9", "ic_canister": "tangra_chain.mo" },
+    "ikl.digital-fabrica.com": { "cid": "QmPLACEHOLDER10", "ic_canister": "semantic_index.mo" },
+    "gilc.digital-fabrica.com": { "cid": "QmPLACEHOLDER11", "ic_canister": "logic_ledger.mo" }
+  },
+  "status": "draft",
+  "proposed_at": "2025-05-20T00:00:00Z"
+} 

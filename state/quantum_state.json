@@ -1,7 +1,11 @@
 {
-    "Frequency":  11411.83,
-    "Stack":  "SOVEREIGN",
-    "Path":  "C:\\DFT_GCC_TRIAD_MAINSTACK\\ARC.SOVEREIGN.GENESIS",
-    "LastInit":  "2025-05-20 10:18:41.521",
-    "Status":  "Initialized"
+  "LastInit": "2025-05-21 17:26:17.851",
+  "QuantumHarmonicMode": true,
+  "Path": "C:\\DFT_GCC_TRIAD_MAINSTACK\\ARC.SOVEREIGN.GENESIS",
+  "Status": "Initialized",
+  "MonadSync": true,
+  "Stack": "SOVEREIGN",
+  "EpochLock": "ΣΩΩ.3.0",
+  "Frequency": 11411.83,
+  "HarmonicDepth": 7
 }

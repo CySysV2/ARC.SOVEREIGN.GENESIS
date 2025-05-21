@@ -1,0 +1,12 @@
+{
+  "epoch": "ΣΩΩ.5.4",
+  "vote_threads": [
+    {
+      "thread_id": 1,
+      "title": "Approve Epoch ΣΩΩ.5.4 CID Registry and DNSLink Update",
+      "proposal_file": "ΣΩΩ.5.4-proposal.json",
+      "status": "open",
+      "votes": []
+    }
+  ]
+} 

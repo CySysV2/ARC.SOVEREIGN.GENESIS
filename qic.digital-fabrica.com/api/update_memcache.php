@@ -1,8 +1,14 @@
 <?php
-$mem = new Memcached();
-$mem->addServer("127.0.0.1", 11249);
-$mem->set("latest_cid", "QmCID_FROM_ORCHESTRATION"); // <-- Replace with actual CID
-$mem->set("epoch_status", "ΣΩΩ.5.0::Live");
-$mem->set("last_sync_time", gmdate("Y-m-d\TH:i:s\Z"));
-echo "Memcached updated.";
-?> 
+header('Content-Type: application/json');
+$cid_file = __DIR__ . '/../latest.cid';
+if ($_SERVER['REQUEST_METHOD'] === 'POST') {
+    $input = json_decode(file_get_contents('php://input'), true);
+    if (isset($input['cid'])) {
+        file_put_contents($cid_file, $input['cid']);
+        echo json_encode(["status" => "updated", "cid" => $input['cid']]);
+    } else {
+        echo json_encode(["error" => "No CID provided"]);
+    }
+} else {
+    echo json_encode(["error" => "POST required"]);
+} 

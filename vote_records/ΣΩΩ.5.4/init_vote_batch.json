@@ -1,0 +1,90 @@
+[
+  {
+    "domain": "digital-fabrica.com",
+    "cid": "QmPLACEHOLDER1",
+    "canister": "main_mesh",
+    "proposal": {},
+    "timestamp": "2025-05-20T16:23:39.574581+00:00",
+    "vote_status": "pending"
+  },
+  {
+    "domain": "blog.digital-fabrica.com",
+    "cid": "QmPLACEHOLDER2",
+    "canister": "blog_mesh.mo",
+    "proposal": {},
+    "timestamp": "2025-05-20T16:23:39.574581+00:00",
+    "vote_status": "pending"
+  },
+  {
+    "domain": "civic.digital-fabrica.com",
+    "cid": "QmPLACEHOLDER3",
+    "canister": "civic_governance.mo",
+    "proposal": {},
+    "timestamp": "2025-05-20T16:23:39.574581+00:00",
+    "vote_status": "pending"
+  },
+  {
+    "domain": "qic.digital-fabrica.com",
+    "cid": "QmPLACEHOLDER4",
+    "canister": "quantum_ic.mo",
+    "proposal": {},
+    "timestamp": "2025-05-20T16:23:39.574581+00:00",
+    "vote_status": "pending"
+  },
+  {
+    "domain": "whitepaper.digital-fabrica.com",
+    "cid": "QmPLACEHOLDER5",
+    "canister": "fabric_docs.mo",
+    "proposal": {},
+    "timestamp": "2025-05-20T16:23:39.574581+00:00",
+    "vote_status": "pending"
+  },
+  {
+    "domain": "ip.digital-fabrica.com",
+    "cid": "QmPLACEHOLDER6",
+    "canister": "ip_claim.mo",
+    "proposal": {},
+    "timestamp": "2025-05-20T16:23:39.574581+00:00",
+    "vote_status": "pending"
+  },
+  {
+    "domain": "media.digital-fabrica.com",
+    "cid": "QmPLACEHOLDER7",
+    "canister": "media_vault.mo",
+    "proposal": {},
+    "timestamp": "2025-05-20T16:23:39.574581+00:00",
+    "vote_status": "pending"
+  },
+  {
+    "domain": "monad.digital-fabrica.com",
+    "cid": "QmPLACEHOLDER8",
+    "canister": "cybernetics_monad.mo",
+    "proposal": {},
+    "timestamp": "2025-05-20T16:23:39.574581+00:00",
+    "vote_status": "pending"
+  },
+  {
+    "domain": "tc.digital-fabrica.com",
+    "cid": "QmPLACEHOLDER9",
+    "canister": "tangra_chain.mo",
+    "proposal": {},
+    "timestamp": "2025-05-20T16:23:39.574581+00:00",
+    "vote_status": "pending"
+  },
+  {
+    "domain": "ikl.digital-fabrica.com",
+    "cid": "QmPLACEHOLDER10",
+    "canister": "semantic_index.mo",
+    "proposal": {},
+    "timestamp": "2025-05-20T16:23:39.574581+00:00",
+    "vote_status": "pending"
+  },
+  {
+    "domain": "gilc.digital-fabrica.com",
+    "cid": "QmPLACEHOLDER11",
+    "canister": "logic_ledger.mo",
+    "proposal": {},
+    "timestamp": "2025-05-20T16:23:39.574581+00:00",
+    "vote_status": "pending"
+  }
+]

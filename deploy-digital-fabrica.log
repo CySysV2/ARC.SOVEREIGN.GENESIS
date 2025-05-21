@@ -3711,3 +3711,261 @@ Uploading file: C:\DFT_GCC_TRIAD_MAINSTACK\ARC.SOVEREIGN.GENESIS\ikl.digital-fab
 Uploading file: C:\DFT_GCC_TRIAD_MAINSTACK\ARC.SOVEREIGN.GENESIS\ikl.digital-fabrica.com\api\test.txt -> /home3/renewabl/ikl.digital-fabrica.com/api/test.txt
 Uploading file: C:\DFT_GCC_TRIAD_MAINSTACK\ARC.SOVEREIGN.GENESIS\ikl.digital-fabrica.com\api\update_memcache.php -> /home3/renewabl/ikl.digital-fabrica.com/api/update_memcache.php
 Deployment complete.
+
+--- Deploying digital-fabrica ---
+Ensured remote directory exists: /home3/renewabl/digital-fabrica.com
+Uploading directory: C:\DFT_GCC_TRIAD_MAINSTACK\ARC.SOVEREIGN.GENESIS\web-projects\digital-fabrica.com\src\pages\.vitepress\dist -> /home3/renewabl/digital-fabrica.com
+Ensured remote directory exists: /home3/renewabl/digital-fabrica.com/assets
+Uploading directory: C:\DFT_GCC_TRIAD_MAINSTACK\ARC.SOVEREIGN.GENESIS\web-projects\digital-fabrica.com\src\pages\.vitepress\dist\assets -> /home3/renewabl/digital-fabrica.com/assets
+Uploading file: C:\DFT_GCC_TRIAD_MAINSTACK\ARC.SOVEREIGN.GENESIS\web-projects\digital-fabrica.com\src\pages\.vitepress\dist\assets\app.CHaz2z97.js -> /home3/renewabl/digital-fabrica.com/assets/app.CHaz2z97.js
+Ensured remote directory exists: /home3/renewabl/digital-fabrica.com/assets/chunks
+Uploading directory: C:\DFT_GCC_TRIAD_MAINSTACK\ARC.SOVEREIGN.GENESIS\web-projects\digital-fabrica.com\src\pages\.vitepress\dist\assets\chunks -> /home3/renewabl/digital-fabrica.com/assets/chunks
+Uploading file: C:\DFT_GCC_TRIAD_MAINSTACK\ARC.SOVEREIGN.GENESIS\web-projects\digital-fabrica.com\src\pages\.vitepress\dist\assets\chunks\theme.CuNPiL4u.js -> /home3/renewabl/digital-fabrica.com/assets/chunks/theme.CuNPiL4u.js
+Uploading file: C:\DFT_GCC_TRIAD_MAINSTACK\ARC.SOVEREIGN.GENESIS\web-projects\digital-fabrica.com\src\pages\.vitepress\dist\assets\style.CDrLWmeR.css -> /home3/renewabl/digital-fabrica.com/assets/style.CDrLWmeR.css
+
+--- Deploying ip ---
+Ensured remote directory exists: /home/renewabl/ip.digital-fabrica.com
+Uploading directory: C:\DFT_GCC_TRIAD_MAINSTACK\ARC.SOVEREIGN.GENESIS\sites\ip.digital-fabrica.com\.vitepress\dist -> /home/renewabl/ip.digital-fabrica.com
+Uploading file: C:\DFT_GCC_TRIAD_MAINSTACK\ARC.SOVEREIGN.GENESIS\sites\ip.digital-fabrica.com\.vitepress\dist\404.html -> /home/renewabl/ip.digital-fabrica.com/404.html
+Ensured remote directory exists: /home/renewabl/ip.digital-fabrica.com/assets
+Uploading directory: C:\DFT_GCC_TRIAD_MAINSTACK\ARC.SOVEREIGN.GENESIS\sites\ip.digital-fabrica.com\.vitepress\dist\assets -> /home/renewabl/ip.digital-fabrica.com/assets
+Uploading file: C:\DFT_GCC_TRIAD_MAINSTACK\ARC.SOVEREIGN.GENESIS\sites\ip.digital-fabrica.com\.vitepress\dist\assets\app.D0V01vSm.js -> /home/renewabl/ip.digital-fabrica.com/assets/app.D0V01vSm.js
+Ensured remote directory exists: /home/renewabl/ip.digital-fabrica.com/assets/chunks
+Uploading directory: C:\DFT_GCC_TRIAD_MAINSTACK\ARC.SOVEREIGN.GENESIS\sites\ip.digital-fabrica.com\.vitepress\dist\assets\chunks -> /home/renewabl/ip.digital-fabrica.com/assets/chunks
+Uploading file: C:\DFT_GCC_TRIAD_MAINSTACK\ARC.SOVEREIGN.GENESIS\sites\ip.digital-fabrica.com\.vitepress\dist\assets\chunks\framework.D1zehzEv.js -> /home/renewabl/ip.digital-fabrica.com/assets/chunks/framework.D1zehzEv.js
+Uploading file: C:\DFT_GCC_TRIAD_MAINSTACK\ARC.SOVEREIGN.GENESIS\sites\ip.digital-fabrica.com\.vitepress\dist\assets\chunks\theme.CT5SjjTj.js -> /home/renewabl/ip.digital-fabrica.com/assets/chunks/theme.CT5SjjTj.js
+Uploading file: C:\DFT_GCC_TRIAD_MAINSTACK\ARC.SOVEREIGN.GENESIS\sites\ip.digital-fabrica.com\.vitepress\dist\assets\index.md.Dn6YnVMF.js -> /home/renewabl/ip.digital-fabrica.com/assets/index.md.Dn6YnVMF.js
+Uploading file: C:\DFT_GCC_TRIAD_MAINSTACK\ARC.SOVEREIGN.GENESIS\sites\ip.digital-fabrica.com\.vitepress\dist\assets\index.md.Dn6YnVMF.lean.js -> /home/renewabl/ip.digital-fabrica.com/assets/index.md.Dn6YnVMF.lean.js
+Uploading file: C:\DFT_GCC_TRIAD_MAINSTACK\ARC.SOVEREIGN.GENESIS\sites\ip.digital-fabrica.com\.vitepress\dist\assets\inter-italic-cyrillic-ext.r48I6akx.woff2 -> /home/renewabl/ip.digital-fabrica.com/assets/inter-italic-cyrillic-ext.r48I6akx.woff2
+Uploading file: C:\DFT_GCC_TRIAD_MAINSTACK\ARC.SOVEREIGN.GENESIS\sites\ip.digital-fabrica.com\.vitepress\dist\assets\inter-italic-cyrillic.By2_1cv3.woff2 -> /home/renewabl/ip.digital-fabrica.com/assets/inter-italic-cyrillic.By2_1cv3.woff2
+Uploading file: C:\DFT_GCC_TRIAD_MAINSTACK\ARC.SOVEREIGN.GENESIS\sites\ip.digital-fabrica.com\.vitepress\dist\assets\inter-italic-greek-ext.1u6EdAuj.woff2 -> /home/renewabl/ip.digital-fabrica.com/assets/inter-italic-greek-ext.1u6EdAuj.woff2
+Uploading file: C:\DFT_GCC_TRIAD_MAINSTACK\ARC.SOVEREIGN.GENESIS\sites\ip.digital-fabrica.com\.vitepress\dist\assets\inter-italic-greek.DJ8dCoTZ.woff2 -> /home/renewabl/ip.digital-fabrica.com/assets/inter-italic-greek.DJ8dCoTZ.woff2
+Uploading file: C:\DFT_GCC_TRIAD_MAINSTACK\ARC.SOVEREIGN.GENESIS\sites\ip.digital-fabrica.com\.vitepress\dist\assets\inter-italic-latin-ext.CN1xVJS-.woff2 -> /home/renewabl/ip.digital-fabrica.com/assets/inter-italic-latin-ext.CN1xVJS-.woff2
+Uploading file: C:\DFT_GCC_TRIAD_MAINSTACK\ARC.SOVEREIGN.GENESIS\sites\ip.digital-fabrica.com\.vitepress\dist\assets\inter-italic-latin.C2AdPX0b.woff2 -> /home/renewabl/ip.digital-fabrica.com/assets/inter-italic-latin.C2AdPX0b.woff2
+Uploading file: C:\DFT_GCC_TRIAD_MAINSTACK\ARC.SOVEREIGN.GENESIS\sites\ip.digital-fabrica.com\.vitepress\dist\assets\inter-italic-vietnamese.BSbpV94h.woff2 -> /home/renewabl/ip.digital-fabrica.com/assets/inter-italic-vietnamese.BSbpV94h.woff2
+Uploading file: C:\DFT_GCC_TRIAD_MAINSTACK\ARC.SOVEREIGN.GENESIS\sites\ip.digital-fabrica.com\.vitepress\dist\assets\inter-roman-cyrillic-ext.BBPuwvHQ.woff2 -> /home/renewabl/ip.digital-fabrica.com/assets/inter-roman-cyrillic-ext.BBPuwvHQ.woff2
+Uploading file: C:\DFT_GCC_TRIAD_MAINSTACK\ARC.SOVEREIGN.GENESIS\sites\ip.digital-fabrica.com\.vitepress\dist\assets\inter-roman-cyrillic.C5lxZ8CY.woff2 -> /home/renewabl/ip.digital-fabrica.com/assets/inter-roman-cyrillic.C5lxZ8CY.woff2
+Uploading file: C:\DFT_GCC_TRIAD_MAINSTACK\ARC.SOVEREIGN.GENESIS\sites\ip.digital-fabrica.com\.vitepress\dist\assets\inter-roman-greek-ext.CqjqNYQ-.woff2 -> /home/renewabl/ip.digital-fabrica.com/assets/inter-roman-greek-ext.CqjqNYQ-.woff2
+Uploading file: C:\DFT_GCC_TRIAD_MAINSTACK\ARC.SOVEREIGN.GENESIS\sites\ip.digital-fabrica.com\.vitepress\dist\assets\inter-roman-greek.BBVDIX6e.woff2 -> /home/renewabl/ip.digital-fabrica.com/assets/inter-roman-greek.BBVDIX6e.woff2
+Uploading file: C:\DFT_GCC_TRIAD_MAINSTACK\ARC.SOVEREIGN.GENESIS\sites\ip.digital-fabrica.com\.vitepress\dist\assets\inter-roman-latin-ext.4ZJIpNVo.woff2 -> /home/renewabl/ip.digital-fabrica.com/assets/inter-roman-latin-ext.4ZJIpNVo.woff2
+Uploading file: C:\DFT_GCC_TRIAD_MAINSTACK\ARC.SOVEREIGN.GENESIS\sites\ip.digital-fabrica.com\.vitepress\dist\assets\inter-roman-latin.Di8DUHzh.woff2 -> /home/renewabl/ip.digital-fabrica.com/assets/inter-roman-latin.Di8DUHzh.woff2
+Uploading file: C:\DFT_GCC_TRIAD_MAINSTACK\ARC.SOVEREIGN.GENESIS\sites\ip.digital-fabrica.com\.vitepress\dist\assets\inter-roman-vietnamese.BjW4sHH5.woff2 -> /home/renewabl/ip.digital-fabrica.com/assets/inter-roman-vietnamese.BjW4sHH5.woff2
+Uploading file: C:\DFT_GCC_TRIAD_MAINSTACK\ARC.SOVEREIGN.GENESIS\sites\ip.digital-fabrica.com\.vitepress\dist\assets\style.DL1IFqgB.css -> /home/renewabl/ip.digital-fabrica.com/assets/style.DL1IFqgB.css
+Uploading file: C:\DFT_GCC_TRIAD_MAINSTACK\ARC.SOVEREIGN.GENESIS\sites\ip.digital-fabrica.com\.vitepress\dist\cid-banner.html -> /home/renewabl/ip.digital-fabrica.com/cid-banner.html
+Uploading file: C:\DFT_GCC_TRIAD_MAINSTACK\ARC.SOVEREIGN.GENESIS\sites\ip.digital-fabrica.com\.vitepress\dist\hashmap.json -> /home/renewabl/ip.digital-fabrica.com/hashmap.json
+Uploading file: C:\DFT_GCC_TRIAD_MAINSTACK\ARC.SOVEREIGN.GENESIS\sites\ip.digital-fabrica.com\.vitepress\dist\index.html -> /home/renewabl/ip.digital-fabrica.com/index.html
+Uploading file: C:\DFT_GCC_TRIAD_MAINSTACK\ARC.SOVEREIGN.GENESIS\sites\ip.digital-fabrica.com\.vitepress\dist\vp-icons.css -> /home/renewabl/ip.digital-fabrica.com/vp-icons.css
+
+--- Deploying qic ---
+Ensured remote directory exists: /home/renewabl/qic.digital-fabrica.com
+Uploading directory: C:\DFT_GCC_TRIAD_MAINSTACK\ARC.SOVEREIGN.GENESIS\sites\qic.digital-fabrica.com\.vitepress\dist -> /home/renewabl/qic.digital-fabrica.com
+Uploading file: C:\DFT_GCC_TRIAD_MAINSTACK\ARC.SOVEREIGN.GENESIS\sites\qic.digital-fabrica.com\.vitepress\dist\404.html -> /home/renewabl/qic.digital-fabrica.com/404.html
+Ensured remote directory exists: /home/renewabl/qic.digital-fabrica.com/assets
+Uploading directory: C:\DFT_GCC_TRIAD_MAINSTACK\ARC.SOVEREIGN.GENESIS\sites\qic.digital-fabrica.com\.vitepress\dist\assets -> /home/renewabl/qic.digital-fabrica.com/assets
+Uploading file: C:\DFT_GCC_TRIAD_MAINSTACK\ARC.SOVEREIGN.GENESIS\sites\qic.digital-fabrica.com\.vitepress\dist\assets\app.C-maaYLH.js -> /home/renewabl/qic.digital-fabrica.com/assets/app.C-maaYLH.js
+Ensured remote directory exists: /home/renewabl/qic.digital-fabrica.com/assets/chunks
+Uploading directory: C:\DFT_GCC_TRIAD_MAINSTACK\ARC.SOVEREIGN.GENESIS\sites\qic.digital-fabrica.com\.vitepress\dist\assets\chunks -> /home/renewabl/qic.digital-fabrica.com/assets/chunks
+Uploading file: C:\DFT_GCC_TRIAD_MAINSTACK\ARC.SOVEREIGN.GENESIS\sites\qic.digital-fabrica.com\.vitepress\dist\assets\chunks\framework.NcZqgvTs.js -> /home/renewabl/qic.digital-fabrica.com/assets/chunks/framework.NcZqgvTs.js
+Uploading file: C:\DFT_GCC_TRIAD_MAINSTACK\ARC.SOVEREIGN.GENESIS\sites\qic.digital-fabrica.com\.vitepress\dist\assets\chunks\theme.DbzarACt.js -> /home/renewabl/qic.digital-fabrica.com/assets/chunks/theme.DbzarACt.js
+Uploading file: C:\DFT_GCC_TRIAD_MAINSTACK\ARC.SOVEREIGN.GENESIS\sites\qic.digital-fabrica.com\.vitepress\dist\assets\docs_index.md.C0GgbA_D.js -> /home/renewabl/qic.digital-fabrica.com/assets/docs_index.md.C0GgbA_D.js
+Uploading file: C:\DFT_GCC_TRIAD_MAINSTACK\ARC.SOVEREIGN.GENESIS\sites\qic.digital-fabrica.com\.vitepress\dist\assets\docs_index.md.C0GgbA_D.lean.js -> /home/renewabl/qic.digital-fabrica.com/assets/docs_index.md.C0GgbA_D.lean.js
+Uploading file: C:\DFT_GCC_TRIAD_MAINSTACK\ARC.SOVEREIGN.GENESIS\sites\qic.digital-fabrica.com\.vitepress\dist\assets\index.md.CRkdmusw.js -> /home/renewabl/qic.digital-fabrica.com/assets/index.md.CRkdmusw.js
+Uploading file: C:\DFT_GCC_TRIAD_MAINSTACK\ARC.SOVEREIGN.GENESIS\sites\qic.digital-fabrica.com\.vitepress\dist\assets\index.md.CRkdmusw.lean.js -> /home/renewabl/qic.digital-fabrica.com/assets/index.md.CRkdmusw.lean.js
+Uploading file: C:\DFT_GCC_TRIAD_MAINSTACK\ARC.SOVEREIGN.GENESIS\sites\qic.digital-fabrica.com\.vitepress\dist\assets\inter-italic-cyrillic-ext.r48I6akx.woff2 -> /home/renewabl/qic.digital-fabrica.com/assets/inter-italic-cyrillic-ext.r48I6akx.woff2
+Uploading file: C:\DFT_GCC_TRIAD_MAINSTACK\ARC.SOVEREIGN.GENESIS\sites\qic.digital-fabrica.com\.vitepress\dist\assets\inter-italic-cyrillic.By2_1cv3.woff2 -> /home/renewabl/qic.digital-fabrica.com/assets/inter-italic-cyrillic.By2_1cv3.woff2
+Uploading file: C:\DFT_GCC_TRIAD_MAINSTACK\ARC.SOVEREIGN.GENESIS\sites\qic.digital-fabrica.com\.vitepress\dist\assets\inter-italic-greek-ext.1u6EdAuj.woff2 -> /home/renewabl/qic.digital-fabrica.com/assets/inter-italic-greek-ext.1u6EdAuj.woff2
+Uploading file: C:\DFT_GCC_TRIAD_MAINSTACK\ARC.SOVEREIGN.GENESIS\sites\qic.digital-fabrica.com\.vitepress\dist\assets\inter-italic-greek.DJ8dCoTZ.woff2 -> /home/renewabl/qic.digital-fabrica.com/assets/inter-italic-greek.DJ8dCoTZ.woff2
+Uploading file: C:\DFT_GCC_TRIAD_MAINSTACK\ARC.SOVEREIGN.GENESIS\sites\qic.digital-fabrica.com\.vitepress\dist\assets\inter-italic-latin-ext.CN1xVJS-.woff2 -> /home/renewabl/qic.digital-fabrica.com/assets/inter-italic-latin-ext.CN1xVJS-.woff2
+Uploading file: C:\DFT_GCC_TRIAD_MAINSTACK\ARC.SOVEREIGN.GENESIS\sites\qic.digital-fabrica.com\.vitepress\dist\assets\inter-italic-latin.C2AdPX0b.woff2 -> /home/renewabl/qic.digital-fabrica.com/assets/inter-italic-latin.C2AdPX0b.woff2
+Uploading file: C:\DFT_GCC_TRIAD_MAINSTACK\ARC.SOVEREIGN.GENESIS\sites\qic.digital-fabrica.com\.vitepress\dist\assets\inter-italic-vietnamese.BSbpV94h.woff2 -> /home/renewabl/qic.digital-fabrica.com/assets/inter-italic-vietnamese.BSbpV94h.woff2
+Uploading file: C:\DFT_GCC_TRIAD_MAINSTACK\ARC.SOVEREIGN.GENESIS\sites\qic.digital-fabrica.com\.vitepress\dist\assets\inter-roman-cyrillic-ext.BBPuwvHQ.woff2 -> /home/renewabl/qic.digital-fabrica.com/assets/inter-roman-cyrillic-ext.BBPuwvHQ.woff2
+Uploading file: C:\DFT_GCC_TRIAD_MAINSTACK\ARC.SOVEREIGN.GENESIS\sites\qic.digital-fabrica.com\.vitepress\dist\assets\inter-roman-cyrillic.C5lxZ8CY.woff2 -> /home/renewabl/qic.digital-fabrica.com/assets/inter-roman-cyrillic.C5lxZ8CY.woff2
+Uploading file: C:\DFT_GCC_TRIAD_MAINSTACK\ARC.SOVEREIGN.GENESIS\sites\qic.digital-fabrica.com\.vitepress\dist\assets\inter-roman-greek-ext.CqjqNYQ-.woff2 -> /home/renewabl/qic.digital-fabrica.com/assets/inter-roman-greek-ext.CqjqNYQ-.woff2
+Uploading file: C:\DFT_GCC_TRIAD_MAINSTACK\ARC.SOVEREIGN.GENESIS\sites\qic.digital-fabrica.com\.vitepress\dist\assets\inter-roman-greek.BBVDIX6e.woff2 -> /home/renewabl/qic.digital-fabrica.com/assets/inter-roman-greek.BBVDIX6e.woff2
+Uploading file: C:\DFT_GCC_TRIAD_MAINSTACK\ARC.SOVEREIGN.GENESIS\sites\qic.digital-fabrica.com\.vitepress\dist\assets\inter-roman-latin-ext.4ZJIpNVo.woff2 -> /home/renewabl/qic.digital-fabrica.com/assets/inter-roman-latin-ext.4ZJIpNVo.woff2
+Uploading file: C:\DFT_GCC_TRIAD_MAINSTACK\ARC.SOVEREIGN.GENESIS\sites\qic.digital-fabrica.com\.vitepress\dist\assets\inter-roman-latin.Di8DUHzh.woff2 -> /home/renewabl/qic.digital-fabrica.com/assets/inter-roman-latin.Di8DUHzh.woff2
+Uploading file: C:\DFT_GCC_TRIAD_MAINSTACK\ARC.SOVEREIGN.GENESIS\sites\qic.digital-fabrica.com\.vitepress\dist\assets\inter-roman-vietnamese.BjW4sHH5.woff2 -> /home/renewabl/qic.digital-fabrica.com/assets/inter-roman-vietnamese.BjW4sHH5.woff2
+Uploading file: C:\DFT_GCC_TRIAD_MAINSTACK\ARC.SOVEREIGN.GENESIS\sites\qic.digital-fabrica.com\.vitepress\dist\assets\style.CPiq3BAf.css -> /home/renewabl/qic.digital-fabrica.com/assets/style.CPiq3BAf.css
+Uploading file: C:\DFT_GCC_TRIAD_MAINSTACK\ARC.SOVEREIGN.GENESIS\sites\qic.digital-fabrica.com\.vitepress\dist\cid-banner.html -> /home/renewabl/qic.digital-fabrica.com/cid-banner.html
+Ensured remote directory exists: /home/renewabl/qic.digital-fabrica.com/docs
+Uploading directory: C:\DFT_GCC_TRIAD_MAINSTACK\ARC.SOVEREIGN.GENESIS\sites\qic.digital-fabrica.com\.vitepress\dist\docs -> /home/renewabl/qic.digital-fabrica.com/docs
+Uploading file: C:\DFT_GCC_TRIAD_MAINSTACK\ARC.SOVEREIGN.GENESIS\sites\qic.digital-fabrica.com\.vitepress\dist\docs\index.html -> /home/renewabl/qic.digital-fabrica.com/docs/index.html
+Uploading file: C:\DFT_GCC_TRIAD_MAINSTACK\ARC.SOVEREIGN.GENESIS\sites\qic.digital-fabrica.com\.vitepress\dist\hashmap.json -> /home/renewabl/qic.digital-fabrica.com/hashmap.json
+Uploading file: C:\DFT_GCC_TRIAD_MAINSTACK\ARC.SOVEREIGN.GENESIS\sites\qic.digital-fabrica.com\.vitepress\dist\index.html -> /home/renewabl/qic.digital-fabrica.com/index.html
+Uploading file: C:\DFT_GCC_TRIAD_MAINSTACK\ARC.SOVEREIGN.GENESIS\sites\qic.digital-fabrica.com\.vitepress\dist\vp-icons.css -> /home/renewabl/qic.digital-fabrica.com/vp-icons.css
+
+--- Deploying civic ---
+Ensured remote directory exists: /home/renewabl/civic.digital-fabrica.com
+Uploading directory: C:\DFT_GCC_TRIAD_MAINSTACK\ARC.SOVEREIGN.GENESIS\sites\civic\.vitepress\dist -> /home/renewabl/civic.digital-fabrica.com
+Uploading file: C:\DFT_GCC_TRIAD_MAINSTACK\ARC.SOVEREIGN.GENESIS\sites\civic\.vitepress\dist\404.html -> /home/renewabl/civic.digital-fabrica.com/404.html
+Ensured remote directory exists: /home/renewabl/civic.digital-fabrica.com/assets
+Uploading directory: C:\DFT_GCC_TRIAD_MAINSTACK\ARC.SOVEREIGN.GENESIS\sites\civic\.vitepress\dist\assets -> /home/renewabl/civic.digital-fabrica.com/assets
+Uploading file: C:\DFT_GCC_TRIAD_MAINSTACK\ARC.SOVEREIGN.GENESIS\sites\civic\.vitepress\dist\assets\app.CXEacqqw.js -> /home/renewabl/civic.digital-fabrica.com/assets/app.CXEacqqw.js
+Ensured remote directory exists: /home/renewabl/civic.digital-fabrica.com/assets/chunks
+Uploading directory: C:\DFT_GCC_TRIAD_MAINSTACK\ARC.SOVEREIGN.GENESIS\sites\civic\.vitepress\dist\assets\chunks -> /home/renewabl/civic.digital-fabrica.com/assets/chunks
+Uploading file: C:\DFT_GCC_TRIAD_MAINSTACK\ARC.SOVEREIGN.GENESIS\sites\civic\.vitepress\dist\assets\chunks\framework.D1zehzEv.js -> /home/renewabl/civic.digital-fabrica.com/assets/chunks/framework.D1zehzEv.js
+Uploading file: C:\DFT_GCC_TRIAD_MAINSTACK\ARC.SOVEREIGN.GENESIS\sites\civic\.vitepress\dist\assets\chunks\theme.B4Q-fJdv.js -> /home/renewabl/civic.digital-fabrica.com/assets/chunks/theme.B4Q-fJdv.js
+Uploading file: C:\DFT_GCC_TRIAD_MAINSTACK\ARC.SOVEREIGN.GENESIS\sites\civic\.vitepress\dist\assets\index.md.BDqxkD74.js -> /home/renewabl/civic.digital-fabrica.com/assets/index.md.BDqxkD74.js
+Uploading file: C:\DFT_GCC_TRIAD_MAINSTACK\ARC.SOVEREIGN.GENESIS\sites\civic\.vitepress\dist\assets\index.md.BDqxkD74.lean.js -> /home/renewabl/civic.digital-fabrica.com/assets/index.md.BDqxkD74.lean.js
+Uploading file: C:\DFT_GCC_TRIAD_MAINSTACK\ARC.SOVEREIGN.GENESIS\sites\civic\.vitepress\dist\assets\inter-italic-cyrillic-ext.r48I6akx.woff2 -> /home/renewabl/civic.digital-fabrica.com/assets/inter-italic-cyrillic-ext.r48I6akx.woff2
+Uploading file: C:\DFT_GCC_TRIAD_MAINSTACK\ARC.SOVEREIGN.GENESIS\sites\civic\.vitepress\dist\assets\inter-italic-cyrillic.By2_1cv3.woff2 -> /home/renewabl/civic.digital-fabrica.com/assets/inter-italic-cyrillic.By2_1cv3.woff2
+Uploading file: C:\DFT_GCC_TRIAD_MAINSTACK\ARC.SOVEREIGN.GENESIS\sites\civic\.vitepress\dist\assets\inter-italic-greek-ext.1u6EdAuj.woff2 -> /home/renewabl/civic.digital-fabrica.com/assets/inter-italic-greek-ext.1u6EdAuj.woff2
+Uploading file: C:\DFT_GCC_TRIAD_MAINSTACK\ARC.SOVEREIGN.GENESIS\sites\civic\.vitepress\dist\assets\inter-italic-greek.DJ8dCoTZ.woff2 -> /home/renewabl/civic.digital-fabrica.com/assets/inter-italic-greek.DJ8dCoTZ.woff2
+Uploading file: C:\DFT_GCC_TRIAD_MAINSTACK\ARC.SOVEREIGN.GENESIS\sites\civic\.vitepress\dist\assets\inter-italic-latin-ext.CN1xVJS-.woff2 -> /home/renewabl/civic.digital-fabrica.com/assets/inter-italic-latin-ext.CN1xVJS-.woff2
+Uploading file: C:\DFT_GCC_TRIAD_MAINSTACK\ARC.SOVEREIGN.GENESIS\sites\civic\.vitepress\dist\assets\inter-italic-latin.C2AdPX0b.woff2 -> /home/renewabl/civic.digital-fabrica.com/assets/inter-italic-latin.C2AdPX0b.woff2
+Uploading file: C:\DFT_GCC_TRIAD_MAINSTACK\ARC.SOVEREIGN.GENESIS\sites\civic\.vitepress\dist\assets\inter-italic-vietnamese.BSbpV94h.woff2 -> /home/renewabl/civic.digital-fabrica.com/assets/inter-italic-vietnamese.BSbpV94h.woff2
+Uploading file: C:\DFT_GCC_TRIAD_MAINSTACK\ARC.SOVEREIGN.GENESIS\sites\civic\.vitepress\dist\assets\inter-roman-cyrillic-ext.BBPuwvHQ.woff2 -> /home/renewabl/civic.digital-fabrica.com/assets/inter-roman-cyrillic-ext.BBPuwvHQ.woff2
+Uploading file: C:\DFT_GCC_TRIAD_MAINSTACK\ARC.SOVEREIGN.GENESIS\sites\civic\.vitepress\dist\assets\inter-roman-cyrillic.C5lxZ8CY.woff2 -> /home/renewabl/civic.digital-fabrica.com/assets/inter-roman-cyrillic.C5lxZ8CY.woff2
+Uploading file: C:\DFT_GCC_TRIAD_MAINSTACK\ARC.SOVEREIGN.GENESIS\sites\civic\.vitepress\dist\assets\inter-roman-greek-ext.CqjqNYQ-.woff2 -> /home/renewabl/civic.digital-fabrica.com/assets/inter-roman-greek-ext.CqjqNYQ-.woff2
+Uploading file: C:\DFT_GCC_TRIAD_MAINSTACK\ARC.SOVEREIGN.GENESIS\sites\civic\.vitepress\dist\assets\inter-roman-greek.BBVDIX6e.woff2 -> /home/renewabl/civic.digital-fabrica.com/assets/inter-roman-greek.BBVDIX6e.woff2
+Uploading file: C:\DFT_GCC_TRIAD_MAINSTACK\ARC.SOVEREIGN.GENESIS\sites\civic\.vitepress\dist\assets\inter-roman-latin-ext.4ZJIpNVo.woff2 -> /home/renewabl/civic.digital-fabrica.com/assets/inter-roman-latin-ext.4ZJIpNVo.woff2
+Uploading file: C:\DFT_GCC_TRIAD_MAINSTACK\ARC.SOVEREIGN.GENESIS\sites\civic\.vitepress\dist\assets\inter-roman-latin.Di8DUHzh.woff2 -> /home/renewabl/civic.digital-fabrica.com/assets/inter-roman-latin.Di8DUHzh.woff2
+Uploading file: C:\DFT_GCC_TRIAD_MAINSTACK\ARC.SOVEREIGN.GENESIS\sites\civic\.vitepress\dist\assets\inter-roman-vietnamese.BjW4sHH5.woff2 -> /home/renewabl/civic.digital-fabrica.com/assets/inter-roman-vietnamese.BjW4sHH5.woff2
+Uploading file: C:\DFT_GCC_TRIAD_MAINSTACK\ARC.SOVEREIGN.GENESIS\sites\civic\.vitepress\dist\assets\style.DL1IFqgB.css -> /home/renewabl/civic.digital-fabrica.com/assets/style.DL1IFqgB.css
+Uploading file: C:\DFT_GCC_TRIAD_MAINSTACK\ARC.SOVEREIGN.GENESIS\sites\civic\.vitepress\dist\cid-banner.html -> /home/renewabl/civic.digital-fabrica.com/cid-banner.html
+Uploading file: C:\DFT_GCC_TRIAD_MAINSTACK\ARC.SOVEREIGN.GENESIS\sites\civic\.vitepress\dist\hashmap.json -> /home/renewabl/civic.digital-fabrica.com/hashmap.json
+Uploading file: C:\DFT_GCC_TRIAD_MAINSTACK\ARC.SOVEREIGN.GENESIS\sites\civic\.vitepress\dist\index.html -> /home/renewabl/civic.digital-fabrica.com/index.html
+Uploading file: C:\DFT_GCC_TRIAD_MAINSTACK\ARC.SOVEREIGN.GENESIS\sites\civic\.vitepress\dist\vp-icons.css -> /home/renewabl/civic.digital-fabrica.com/vp-icons.css
+
+--- Deploying fabrics ---
+Ensured remote directory exists: /home/renewabl/fabrics.digital-fabrica.com
+Uploading directory: C:\DFT_GCC_TRIAD_MAINSTACK\ARC.SOVEREIGN.GENESIS\sites\fabrics\.vitepress\dist -> /home/renewabl/fabrics.digital-fabrica.com
+Uploading file: C:\DFT_GCC_TRIAD_MAINSTACK\ARC.SOVEREIGN.GENESIS\sites\fabrics\.vitepress\dist\404.html -> /home/renewabl/fabrics.digital-fabrica.com/404.html
+Ensured remote directory exists: /home/renewabl/fabrics.digital-fabrica.com/assets
+Uploading directory: C:\DFT_GCC_TRIAD_MAINSTACK\ARC.SOVEREIGN.GENESIS\sites\fabrics\.vitepress\dist\assets -> /home/renewabl/fabrics.digital-fabrica.com/assets
+Uploading file: C:\DFT_GCC_TRIAD_MAINSTACK\ARC.SOVEREIGN.GENESIS\sites\fabrics\.vitepress\dist\assets\app.DgSmtJ8R.js -> /home/renewabl/fabrics.digital-fabrica.com/assets/app.DgSmtJ8R.js
+Ensured remote directory exists: /home/renewabl/fabrics.digital-fabrica.com/assets/chunks
+Uploading directory: C:\DFT_GCC_TRIAD_MAINSTACK\ARC.SOVEREIGN.GENESIS\sites\fabrics\.vitepress\dist\assets\chunks -> /home/renewabl/fabrics.digital-fabrica.com/assets/chunks
+Uploading file: C:\DFT_GCC_TRIAD_MAINSTACK\ARC.SOVEREIGN.GENESIS\sites\fabrics\.vitepress\dist\assets\chunks\framework.D1zehzEv.js -> /home/renewabl/fabrics.digital-fabrica.com/assets/chunks/framework.D1zehzEv.js
+Uploading file: C:\DFT_GCC_TRIAD_MAINSTACK\ARC.SOVEREIGN.GENESIS\sites\fabrics\.vitepress\dist\assets\chunks\theme.Dd0Efx4i.js -> /home/renewabl/fabrics.digital-fabrica.com/assets/chunks/theme.Dd0Efx4i.js
+Uploading file: C:\DFT_GCC_TRIAD_MAINSTACK\ARC.SOVEREIGN.GENESIS\sites\fabrics\.vitepress\dist\assets\index.md.r-d4mMKx.js -> /home/renewabl/fabrics.digital-fabrica.com/assets/index.md.r-d4mMKx.js
+Uploading file: C:\DFT_GCC_TRIAD_MAINSTACK\ARC.SOVEREIGN.GENESIS\sites\fabrics\.vitepress\dist\assets\index.md.r-d4mMKx.lean.js -> /home/renewabl/fabrics.digital-fabrica.com/assets/index.md.r-d4mMKx.lean.js
+Uploading file: C:\DFT_GCC_TRIAD_MAINSTACK\ARC.SOVEREIGN.GENESIS\sites\fabrics\.vitepress\dist\assets\inter-italic-cyrillic-ext.r48I6akx.woff2 -> /home/renewabl/fabrics.digital-fabrica.com/assets/inter-italic-cyrillic-ext.r48I6akx.woff2
+Uploading file: C:\DFT_GCC_TRIAD_MAINSTACK\ARC.SOVEREIGN.GENESIS\sites\fabrics\.vitepress\dist\assets\inter-italic-cyrillic.By2_1cv3.woff2 -> /home/renewabl/fabrics.digital-fabrica.com/assets/inter-italic-cyrillic.By2_1cv3.woff2
+Uploading file: C:\DFT_GCC_TRIAD_MAINSTACK\ARC.SOVEREIGN.GENESIS\sites\fabrics\.vitepress\dist\assets\inter-italic-greek-ext.1u6EdAuj.woff2 -> /home/renewabl/fabrics.digital-fabrica.com/assets/inter-italic-greek-ext.1u6EdAuj.woff2
+Uploading file: C:\DFT_GCC_TRIAD_MAINSTACK\ARC.SOVEREIGN.GENESIS\sites\fabrics\.vitepress\dist\assets\inter-italic-greek.DJ8dCoTZ.woff2 -> /home/renewabl/fabrics.digital-fabrica.com/assets/inter-italic-greek.DJ8dCoTZ.woff2
+Uploading file: C:\DFT_GCC_TRIAD_MAINSTACK\ARC.SOVEREIGN.GENESIS\sites\fabrics\.vitepress\dist\assets\inter-italic-latin-ext.CN1xVJS-.woff2 -> /home/renewabl/fabrics.digital-fabrica.com/assets/inter-italic-latin-ext.CN1xVJS-.woff2
+Uploading file: C:\DFT_GCC_TRIAD_MAINSTACK\ARC.SOVEREIGN.GENESIS\sites\fabrics\.vitepress\dist\assets\inter-italic-latin.C2AdPX0b.woff2 -> /home/renewabl/fabrics.digital-fabrica.com/assets/inter-italic-latin.C2AdPX0b.woff2
+Uploading file: C:\DFT_GCC_TRIAD_MAINSTACK\ARC.SOVEREIGN.GENESIS\sites\fabrics\.vitepress\dist\assets\inter-italic-vietnamese.BSbpV94h.woff2 -> /home/renewabl/fabrics.digital-fabrica.com/assets/inter-italic-vietnamese.BSbpV94h.woff2
+Uploading file: C:\DFT_GCC_TRIAD_MAINSTACK\ARC.SOVEREIGN.GENESIS\sites\fabrics\.vitepress\dist\assets\inter-roman-cyrillic-ext.BBPuwvHQ.woff2 -> /home/renewabl/fabrics.digital-fabrica.com/assets/inter-roman-cyrillic-ext.BBPuwvHQ.woff2
+Uploading file: C:\DFT_GCC_TRIAD_MAINSTACK\ARC.SOVEREIGN.GENESIS\sites\fabrics\.vitepress\dist\assets\inter-roman-cyrillic.C5lxZ8CY.woff2 -> /home/renewabl/fabrics.digital-fabrica.com/assets/inter-roman-cyrillic.C5lxZ8CY.woff2
+Uploading file: C:\DFT_GCC_TRIAD_MAINSTACK\ARC.SOVEREIGN.GENESIS\sites\fabrics\.vitepress\dist\assets\inter-roman-greek-ext.CqjqNYQ-.woff2 -> /home/renewabl/fabrics.digital-fabrica.com/assets/inter-roman-greek-ext.CqjqNYQ-.woff2
+Uploading file: C:\DFT_GCC_TRIAD_MAINSTACK\ARC.SOVEREIGN.GENESIS\sites\fabrics\.vitepress\dist\assets\inter-roman-greek.BBVDIX6e.woff2 -> /home/renewabl/fabrics.digital-fabrica.com/assets/inter-roman-greek.BBVDIX6e.woff2
+Uploading file: C:\DFT_GCC_TRIAD_MAINSTACK\ARC.SOVEREIGN.GENESIS\sites\fabrics\.vitepress\dist\assets\inter-roman-latin-ext.4ZJIpNVo.woff2 -> /home/renewabl/fabrics.digital-fabrica.com/assets/inter-roman-latin-ext.4ZJIpNVo.woff2
+Uploading file: C:\DFT_GCC_TRIAD_MAINSTACK\ARC.SOVEREIGN.GENESIS\sites\fabrics\.vitepress\dist\assets\inter-roman-latin.Di8DUHzh.woff2 -> /home/renewabl/fabrics.digital-fabrica.com/assets/inter-roman-latin.Di8DUHzh.woff2
+Uploading file: C:\DFT_GCC_TRIAD_MAINSTACK\ARC.SOVEREIGN.GENESIS\sites\fabrics\.vitepress\dist\assets\inter-roman-vietnamese.BjW4sHH5.woff2 -> /home/renewabl/fabrics.digital-fabrica.com/assets/inter-roman-vietnamese.BjW4sHH5.woff2
+Uploading file: C:\DFT_GCC_TRIAD_MAINSTACK\ARC.SOVEREIGN.GENESIS\sites\fabrics\.vitepress\dist\assets\style.CU_fWZQU.css -> /home/renewabl/fabrics.digital-fabrica.com/assets/style.CU_fWZQU.css
+Uploading file: C:\DFT_GCC_TRIAD_MAINSTACK\ARC.SOVEREIGN.GENESIS\sites\fabrics\.vitepress\dist\cid-banner.html -> /home/renewabl/fabrics.digital-fabrica.com/cid-banner.html
+Uploading file: C:\DFT_GCC_TRIAD_MAINSTACK\ARC.SOVEREIGN.GENESIS\sites\fabrics\.vitepress\dist\hashmap.json -> /home/renewabl/fabrics.digital-fabrica.com/hashmap.json
+Uploading file: C:\DFT_GCC_TRIAD_MAINSTACK\ARC.SOVEREIGN.GENESIS\sites\fabrics\.vitepress\dist\index.html -> /home/renewabl/fabrics.digital-fabrica.com/index.html
+Uploading file: C:\DFT_GCC_TRIAD_MAINSTACK\ARC.SOVEREIGN.GENESIS\sites\fabrics\.vitepress\dist\vp-icons.css -> /home/renewabl/fabrics.digital-fabrica.com/vp-icons.css
+
+--- Deploying blog ---
+Ensured remote directory exists: /home/renewabl/blog.digital-fabrica.com
+Uploading directory: C:\DFT_GCC_TRIAD_MAINSTACK\ARC.SOVEREIGN.GENESIS\sites\blog\.vitepress\dist -> /home/renewabl/blog.digital-fabrica.com
+Uploading file: C:\DFT_GCC_TRIAD_MAINSTACK\ARC.SOVEREIGN.GENESIS\sites\blog\.vitepress\dist\404.html -> /home/renewabl/blog.digital-fabrica.com/404.html
+Ensured remote directory exists: /home/renewabl/blog.digital-fabrica.com/assets
+Uploading directory: C:\DFT_GCC_TRIAD_MAINSTACK\ARC.SOVEREIGN.GENESIS\sites\blog\.vitepress\dist\assets -> /home/renewabl/blog.digital-fabrica.com/assets
+Uploading file: C:\DFT_GCC_TRIAD_MAINSTACK\ARC.SOVEREIGN.GENESIS\sites\blog\.vitepress\dist\assets\app.8tiQap0r.js -> /home/renewabl/blog.digital-fabrica.com/assets/app.8tiQap0r.js
+Ensured remote directory exists: /home/renewabl/blog.digital-fabrica.com/assets/chunks
+Uploading directory: C:\DFT_GCC_TRIAD_MAINSTACK\ARC.SOVEREIGN.GENESIS\sites\blog\.vitepress\dist\assets\chunks -> /home/renewabl/blog.digital-fabrica.com/assets/chunks
+Uploading file: C:\DFT_GCC_TRIAD_MAINSTACK\ARC.SOVEREIGN.GENESIS\sites\blog\.vitepress\dist\assets\chunks\framework.BbU7e7kO.js -> /home/renewabl/blog.digital-fabrica.com/assets/chunks/framework.BbU7e7kO.js
+Uploading file: C:\DFT_GCC_TRIAD_MAINSTACK\ARC.SOVEREIGN.GENESIS\sites\blog\.vitepress\dist\assets\chunks\theme.C071xIIg.js -> /home/renewabl/blog.digital-fabrica.com/assets/chunks/theme.C071xIIg.js
+Uploading file: C:\DFT_GCC_TRIAD_MAINSTACK\ARC.SOVEREIGN.GENESIS\sites\blog\.vitepress\dist\assets\index.md.DZTndRD5.js -> /home/renewabl/blog.digital-fabrica.com/assets/index.md.DZTndRD5.js
+Uploading file: C:\DFT_GCC_TRIAD_MAINSTACK\ARC.SOVEREIGN.GENESIS\sites\blog\.vitepress\dist\assets\index.md.DZTndRD5.lean.js -> /home/renewabl/blog.digital-fabrica.com/assets/index.md.DZTndRD5.lean.js
+Uploading file: C:\DFT_GCC_TRIAD_MAINSTACK\ARC.SOVEREIGN.GENESIS\sites\blog\.vitepress\dist\assets\inter-italic-cyrillic-ext.r48I6akx.woff2 -> /home/renewabl/blog.digital-fabrica.com/assets/inter-italic-cyrillic-ext.r48I6akx.woff2
+Uploading file: C:\DFT_GCC_TRIAD_MAINSTACK\ARC.SOVEREIGN.GENESIS\sites\blog\.vitepress\dist\assets\inter-italic-cyrillic.By2_1cv3.woff2 -> /home/renewabl/blog.digital-fabrica.com/assets/inter-italic-cyrillic.By2_1cv3.woff2
+Uploading file: C:\DFT_GCC_TRIAD_MAINSTACK\ARC.SOVEREIGN.GENESIS\sites\blog\.vitepress\dist\assets\inter-italic-greek-ext.1u6EdAuj.woff2 -> /home/renewabl/blog.digital-fabrica.com/assets/inter-italic-greek-ext.1u6EdAuj.woff2
+Uploading file: C:\DFT_GCC_TRIAD_MAINSTACK\ARC.SOVEREIGN.GENESIS\sites\blog\.vitepress\dist\assets\inter-italic-greek.DJ8dCoTZ.woff2 -> /home/renewabl/blog.digital-fabrica.com/assets/inter-italic-greek.DJ8dCoTZ.woff2
+Uploading file: C:\DFT_GCC_TRIAD_MAINSTACK\ARC.SOVEREIGN.GENESIS\sites\blog\.vitepress\dist\assets\inter-italic-latin-ext.CN1xVJS-.woff2 -> /home/renewabl/blog.digital-fabrica.com/assets/inter-italic-latin-ext.CN1xVJS-.woff2
+Uploading file: C:\DFT_GCC_TRIAD_MAINSTACK\ARC.SOVEREIGN.GENESIS\sites\blog\.vitepress\dist\assets\inter-italic-latin.C2AdPX0b.woff2 -> /home/renewabl/blog.digital-fabrica.com/assets/inter-italic-latin.C2AdPX0b.woff2
+Uploading file: C:\DFT_GCC_TRIAD_MAINSTACK\ARC.SOVEREIGN.GENESIS\sites\blog\.vitepress\dist\assets\inter-italic-vietnamese.BSbpV94h.woff2 -> /home/renewabl/blog.digital-fabrica.com/assets/inter-italic-vietnamese.BSbpV94h.woff2
+Uploading file: C:\DFT_GCC_TRIAD_MAINSTACK\ARC.SOVEREIGN.GENESIS\sites\blog\.vitepress\dist\assets\inter-roman-cyrillic-ext.BBPuwvHQ.woff2 -> /home/renewabl/blog.digital-fabrica.com/assets/inter-roman-cyrillic-ext.BBPuwvHQ.woff2
+Uploading file: C:\DFT_GCC_TRIAD_MAINSTACK\ARC.SOVEREIGN.GENESIS\sites\blog\.vitepress\dist\assets\inter-roman-cyrillic.C5lxZ8CY.woff2 -> /home/renewabl/blog.digital-fabrica.com/assets/inter-roman-cyrillic.C5lxZ8CY.woff2
+Uploading file: C:\DFT_GCC_TRIAD_MAINSTACK\ARC.SOVEREIGN.GENESIS\sites\blog\.vitepress\dist\assets\inter-roman-greek-ext.CqjqNYQ-.woff2 -> /home/renewabl/blog.digital-fabrica.com/assets/inter-roman-greek-ext.CqjqNYQ-.woff2
+Uploading file: C:\DFT_GCC_TRIAD_MAINSTACK\ARC.SOVEREIGN.GENESIS\sites\blog\.vitepress\dist\assets\inter-roman-greek.BBVDIX6e.woff2 -> /home/renewabl/blog.digital-fabrica.com/assets/inter-roman-greek.BBVDIX6e.woff2
+Uploading file: C:\DFT_GCC_TRIAD_MAINSTACK\ARC.SOVEREIGN.GENESIS\sites\blog\.vitepress\dist\assets\inter-roman-latin-ext.4ZJIpNVo.woff2 -> /home/renewabl/blog.digital-fabrica.com/assets/inter-roman-latin-ext.4ZJIpNVo.woff2
+Uploading file: C:\DFT_GCC_TRIAD_MAINSTACK\ARC.SOVEREIGN.GENESIS\sites\blog\.vitepress\dist\assets\inter-roman-latin.Di8DUHzh.woff2 -> /home/renewabl/blog.digital-fabrica.com/assets/inter-roman-latin.Di8DUHzh.woff2
+Uploading file: C:\DFT_GCC_TRIAD_MAINSTACK\ARC.SOVEREIGN.GENESIS\sites\blog\.vitepress\dist\assets\inter-roman-vietnamese.BjW4sHH5.woff2 -> /home/renewabl/blog.digital-fabrica.com/assets/inter-roman-vietnamese.BjW4sHH5.woff2
+Uploading file: C:\DFT_GCC_TRIAD_MAINSTACK\ARC.SOVEREIGN.GENESIS\sites\blog\.vitepress\dist\assets\style.CL-77jBe.css -> /home/renewabl/blog.digital-fabrica.com/assets/style.CL-77jBe.css
+Uploading file: C:\DFT_GCC_TRIAD_MAINSTACK\ARC.SOVEREIGN.GENESIS\sites\blog\.vitepress\dist\cid-banner.html -> /home/renewabl/blog.digital-fabrica.com/cid-banner.html
+Uploading file: C:\DFT_GCC_TRIAD_MAINSTACK\ARC.SOVEREIGN.GENESIS\sites\blog\.vitepress\dist\hashmap.json -> /home/renewabl/blog.digital-fabrica.com/hashmap.json
+Uploading file: C:\DFT_GCC_TRIAD_MAINSTACK\ARC.SOVEREIGN.GENESIS\sites\blog\.vitepress\dist\index.html -> /home/renewabl/blog.digital-fabrica.com/index.html
+Uploading file: C:\DFT_GCC_TRIAD_MAINSTACK\ARC.SOVEREIGN.GENESIS\sites\blog\.vitepress\dist\vp-icons.css -> /home/renewabl/blog.digital-fabrica.com/vp-icons.css
+
+--- Deploying whitepaper ---
+Ensured remote directory exists: /home/renewabl/whitepaper.digital-fabrica.com
+Uploading directory: C:\DFT_GCC_TRIAD_MAINSTACK\ARC.SOVEREIGN.GENESIS\sites\whitepaper\.vitepress\dist -> /home/renewabl/whitepaper.digital-fabrica.com
+Uploading file: C:\DFT_GCC_TRIAD_MAINSTACK\ARC.SOVEREIGN.GENESIS\sites\whitepaper\.vitepress\dist\404.html -> /home/renewabl/whitepaper.digital-fabrica.com/404.html
+Ensured remote directory exists: /home/renewabl/whitepaper.digital-fabrica.com/assets
+Uploading directory: C:\DFT_GCC_TRIAD_MAINSTACK\ARC.SOVEREIGN.GENESIS\sites\whitepaper\.vitepress\dist\assets -> /home/renewabl/whitepaper.digital-fabrica.com/assets
+Uploading file: C:\DFT_GCC_TRIAD_MAINSTACK\ARC.SOVEREIGN.GENESIS\sites\whitepaper\.vitepress\dist\assets\app.DskhVK50.js -> /home/renewabl/whitepaper.digital-fabrica.com/assets/app.DskhVK50.js
+Ensured remote directory exists: /home/renewabl/whitepaper.digital-fabrica.com/assets/chunks
+Uploading directory: C:\DFT_GCC_TRIAD_MAINSTACK\ARC.SOVEREIGN.GENESIS\sites\whitepaper\.vitepress\dist\assets\chunks -> /home/renewabl/whitepaper.digital-fabrica.com/assets/chunks
+Uploading file: C:\DFT_GCC_TRIAD_MAINSTACK\ARC.SOVEREIGN.GENESIS\sites\whitepaper\.vitepress\dist\assets\chunks\framework.BbU7e7kO.js -> /home/renewabl/whitepaper.digital-fabrica.com/assets/chunks/framework.BbU7e7kO.js
+Uploading file: C:\DFT_GCC_TRIAD_MAINSTACK\ARC.SOVEREIGN.GENESIS\sites\whitepaper\.vitepress\dist\assets\chunks\theme.Dla1WH_9.js -> /home/renewabl/whitepaper.digital-fabrica.com/assets/chunks/theme.Dla1WH_9.js
+Uploading file: C:\DFT_GCC_TRIAD_MAINSTACK\ARC.SOVEREIGN.GENESIS\sites\whitepaper\.vitepress\dist\assets\index.md.CvI-Qjk7.js -> /home/renewabl/whitepaper.digital-fabrica.com/assets/index.md.CvI-Qjk7.js
+Uploading file: C:\DFT_GCC_TRIAD_MAINSTACK\ARC.SOVEREIGN.GENESIS\sites\whitepaper\.vitepress\dist\assets\index.md.CvI-Qjk7.lean.js -> /home/renewabl/whitepaper.digital-fabrica.com/assets/index.md.CvI-Qjk7.lean.js
+Uploading file: C:\DFT_GCC_TRIAD_MAINSTACK\ARC.SOVEREIGN.GENESIS\sites\whitepaper\.vitepress\dist\assets\inter-italic-cyrillic-ext.r48I6akx.woff2 -> /home/renewabl/whitepaper.digital-fabrica.com/assets/inter-italic-cyrillic-ext.r48I6akx.woff2
+Uploading file: C:\DFT_GCC_TRIAD_MAINSTACK\ARC.SOVEREIGN.GENESIS\sites\whitepaper\.vitepress\dist\assets\inter-italic-cyrillic.By2_1cv3.woff2 -> /home/renewabl/whitepaper.digital-fabrica.com/assets/inter-italic-cyrillic.By2_1cv3.woff2
+Uploading file: C:\DFT_GCC_TRIAD_MAINSTACK\ARC.SOVEREIGN.GENESIS\sites\whitepaper\.vitepress\dist\assets\inter-italic-greek-ext.1u6EdAuj.woff2 -> /home/renewabl/whitepaper.digital-fabrica.com/assets/inter-italic-greek-ext.1u6EdAuj.woff2
+Uploading file: C:\DFT_GCC_TRIAD_MAINSTACK\ARC.SOVEREIGN.GENESIS\sites\whitepaper\.vitepress\dist\assets\inter-italic-greek.DJ8dCoTZ.woff2 -> /home/renewabl/whitepaper.digital-fabrica.com/assets/inter-italic-greek.DJ8dCoTZ.woff2
+Uploading file: C:\DFT_GCC_TRIAD_MAINSTACK\ARC.SOVEREIGN.GENESIS\sites\whitepaper\.vitepress\dist\assets\inter-italic-latin-ext.CN1xVJS-.woff2 -> /home/renewabl/whitepaper.digital-fabrica.com/assets/inter-italic-latin-ext.CN1xVJS-.woff2
+Uploading file: C:\DFT_GCC_TRIAD_MAINSTACK\ARC.SOVEREIGN.GENESIS\sites\whitepaper\.vitepress\dist\assets\inter-italic-latin.C2AdPX0b.woff2 -> /home/renewabl/whitepaper.digital-fabrica.com/assets/inter-italic-latin.C2AdPX0b.woff2
+Uploading file: C:\DFT_GCC_TRIAD_MAINSTACK\ARC.SOVEREIGN.GENESIS\sites\whitepaper\.vitepress\dist\assets\inter-italic-vietnamese.BSbpV94h.woff2 -> /home/renewabl/whitepaper.digital-fabrica.com/assets/inter-italic-vietnamese.BSbpV94h.woff2
+Uploading file: C:\DFT_GCC_TRIAD_MAINSTACK\ARC.SOVEREIGN.GENESIS\sites\whitepaper\.vitepress\dist\assets\inter-roman-cyrillic-ext.BBPuwvHQ.woff2 -> /home/renewabl/whitepaper.digital-fabrica.com/assets/inter-roman-cyrillic-ext.BBPuwvHQ.woff2
+Uploading file: C:\DFT_GCC_TRIAD_MAINSTACK\ARC.SOVEREIGN.GENESIS\sites\whitepaper\.vitepress\dist\assets\inter-roman-cyrillic.C5lxZ8CY.woff2 -> /home/renewabl/whitepaper.digital-fabrica.com/assets/inter-roman-cyrillic.C5lxZ8CY.woff2
+Uploading file: C:\DFT_GCC_TRIAD_MAINSTACK\ARC.SOVEREIGN.GENESIS\sites\whitepaper\.vitepress\dist\assets\inter-roman-greek-ext.CqjqNYQ-.woff2 -> /home/renewabl/whitepaper.digital-fabrica.com/assets/inter-roman-greek-ext.CqjqNYQ-.woff2
+Uploading file: C:\DFT_GCC_TRIAD_MAINSTACK\ARC.SOVEREIGN.GENESIS\sites\whitepaper\.vitepress\dist\assets\inter-roman-greek.BBVDIX6e.woff2 -> /home/renewabl/whitepaper.digital-fabrica.com/assets/inter-roman-greek.BBVDIX6e.woff2
+Uploading file: C:\DFT_GCC_TRIAD_MAINSTACK\ARC.SOVEREIGN.GENESIS\sites\whitepaper\.vitepress\dist\assets\inter-roman-latin-ext.4ZJIpNVo.woff2 -> /home/renewabl/whitepaper.digital-fabrica.com/assets/inter-roman-latin-ext.4ZJIpNVo.woff2
+Uploading file: C:\DFT_GCC_TRIAD_MAINSTACK\ARC.SOVEREIGN.GENESIS\sites\whitepaper\.vitepress\dist\assets\inter-roman-latin.Di8DUHzh.woff2 -> /home/renewabl/whitepaper.digital-fabrica.com/assets/inter-roman-latin.Di8DUHzh.woff2
+Uploading file: C:\DFT_GCC_TRIAD_MAINSTACK\ARC.SOVEREIGN.GENESIS\sites\whitepaper\.vitepress\dist\assets\inter-roman-vietnamese.BjW4sHH5.woff2 -> /home/renewabl/whitepaper.digital-fabrica.com/assets/inter-roman-vietnamese.BjW4sHH5.woff2
+Uploading file: C:\DFT_GCC_TRIAD_MAINSTACK\ARC.SOVEREIGN.GENESIS\sites\whitepaper\.vitepress\dist\assets\style.CPTtGXsy.css -> /home/renewabl/whitepaper.digital-fabrica.com/assets/style.CPTtGXsy.css
+Uploading file: C:\DFT_GCC_TRIAD_MAINSTACK\ARC.SOVEREIGN.GENESIS\sites\whitepaper\.vitepress\dist\cid-banner.html -> /home/renewabl/whitepaper.digital-fabrica.com/cid-banner.html
+Uploading file: C:\DFT_GCC_TRIAD_MAINSTACK\ARC.SOVEREIGN.GENESIS\sites\whitepaper\.vitepress\dist\hashmap.json -> /home/renewabl/whitepaper.digital-fabrica.com/hashmap.json
+Uploading file: C:\DFT_GCC_TRIAD_MAINSTACK\ARC.SOVEREIGN.GENESIS\sites\whitepaper\.vitepress\dist\index.html -> /home/renewabl/whitepaper.digital-fabrica.com/index.html
+Uploading file: C:\DFT_GCC_TRIAD_MAINSTACK\ARC.SOVEREIGN.GENESIS\sites\whitepaper\.vitepress\dist\vp-icons.css -> /home/renewabl/whitepaper.digital-fabrica.com/vp-icons.css
+
+--- Deploying blog-api ---
+Ensured remote directory exists: /home3/renewabl/blog.digital-fabrica.com/api
+Uploading directory: C:\DFT_GCC_TRIAD_MAINSTACK\ARC.SOVEREIGN.GENESIS\blog.digital-fabrica.com\api -> /home3/renewabl/blog.digital-fabrica.com/api
+Uploading file: C:\DFT_GCC_TRIAD_MAINSTACK\ARC.SOVEREIGN.GENESIS\blog.digital-fabrica.com\api\latest_cid.php -> /home3/renewabl/blog.digital-fabrica.com/api/latest_cid.php
+Uploading file: C:\DFT_GCC_TRIAD_MAINSTACK\ARC.SOVEREIGN.GENESIS\blog.digital-fabrica.com\api\update_memcache.php -> /home3/renewabl/blog.digital-fabrica.com/api/update_memcache.php
+
+--- Deploying civic-api ---
+Ensured remote directory exists: /home3/renewabl/civic.digital-fabrica.com/api
+Uploading directory: C:\DFT_GCC_TRIAD_MAINSTACK\ARC.SOVEREIGN.GENESIS\civic.digital-fabrica.com\api -> /home3/renewabl/civic.digital-fabrica.com/api
+Uploading file: C:\DFT_GCC_TRIAD_MAINSTACK\ARC.SOVEREIGN.GENESIS\civic.digital-fabrica.com\api\latest_cid.php -> /home3/renewabl/civic.digital-fabrica.com/api/latest_cid.php
+Uploading file: C:\DFT_GCC_TRIAD_MAINSTACK\ARC.SOVEREIGN.GENESIS\civic.digital-fabrica.com\api\update_memcache.php -> /home3/renewabl/civic.digital-fabrica.com/api/update_memcache.php
+
+--- Deploying fabrics-api ---
+Ensured remote directory exists: /home3/renewabl/fabrics.digital-fabrica.com/api
+Uploading directory: C:\DFT_GCC_TRIAD_MAINSTACK\ARC.SOVEREIGN.GENESIS\fabrics.digital-fabrica.com\api -> /home3/renewabl/fabrics.digital-fabrica.com/api
+Uploading file: C:\DFT_GCC_TRIAD_MAINSTACK\ARC.SOVEREIGN.GENESIS\fabrics.digital-fabrica.com\api\latest_cid.php -> /home3/renewabl/fabrics.digital-fabrica.com/api/latest_cid.php
+Uploading file: C:\DFT_GCC_TRIAD_MAINSTACK\ARC.SOVEREIGN.GENESIS\fabrics.digital-fabrica.com\api\update_memcache.php -> /home3/renewabl/fabrics.digital-fabrica.com/api/update_memcache.php
+
+--- Deploying ip-api ---
+Ensured remote directory exists: /home3/renewabl/ip.digital-fabrica.com/api
+Uploading directory: C:\DFT_GCC_TRIAD_MAINSTACK\ARC.SOVEREIGN.GENESIS\ip.digital-fabrica.com\api -> /home3/renewabl/ip.digital-fabrica.com/api
+Uploading file: C:\DFT_GCC_TRIAD_MAINSTACK\ARC.SOVEREIGN.GENESIS\ip.digital-fabrica.com\api\latest_cid.php -> /home3/renewabl/ip.digital-fabrica.com/api/latest_cid.php
+Uploading file: C:\DFT_GCC_TRIAD_MAINSTACK\ARC.SOVEREIGN.GENESIS\ip.digital-fabrica.com\api\update_memcache.php -> /home3/renewabl/ip.digital-fabrica.com/api/update_memcache.php
+
+--- Deploying qic-api ---
+Ensured remote directory exists: /home3/renewabl/qic.digital-fabrica.com/api
+Uploading directory: C:\DFT_GCC_TRIAD_MAINSTACK\ARC.SOVEREIGN.GENESIS\qic.digital-fabrica.com\api -> /home3/renewabl/qic.digital-fabrica.com/api
+Uploading file: C:\DFT_GCC_TRIAD_MAINSTACK\ARC.SOVEREIGN.GENESIS\qic.digital-fabrica.com\api\latest_cid.php -> /home3/renewabl/qic.digital-fabrica.com/api/latest_cid.php
+Uploading file: C:\DFT_GCC_TRIAD_MAINSTACK\ARC.SOVEREIGN.GENESIS\qic.digital-fabrica.com\api\update_memcache.php -> /home3/renewabl/qic.digital-fabrica.com/api/update_memcache.php
+
+--- Deploying whitepaper-api ---
+Ensured remote directory exists: /home3/renewabl/whitepaper.digital-fabrica.com/api
+Uploading directory: C:\DFT_GCC_TRIAD_MAINSTACK\ARC.SOVEREIGN.GENESIS\whitepaper.digital-fabrica.com\api -> /home3/renewabl/whitepaper.digital-fabrica.com/api
+Uploading file: C:\DFT_GCC_TRIAD_MAINSTACK\ARC.SOVEREIGN.GENESIS\whitepaper.digital-fabrica.com\api\latest_cid.php -> /home3/renewabl/whitepaper.digital-fabrica.com/api/latest_cid.php
+Uploading file: C:\DFT_GCC_TRIAD_MAINSTACK\ARC.SOVEREIGN.GENESIS\whitepaper.digital-fabrica.com\api\update_memcache.php -> /home3/renewabl/whitepaper.digital-fabrica.com/api/update_memcache.php
+
+--- Deploying monad-api ---
+Ensured remote directory exists: /home3/renewabl/monad.digital-fabrica.com/api
+Uploading directory: C:\DFT_GCC_TRIAD_MAINSTACK\ARC.SOVEREIGN.GENESIS\monad.digital-fabrica.com\api -> /home3/renewabl/monad.digital-fabrica.com/api
+
+--- Deploying monad-api ---
+Ensured remote directory exists: /home3/renewabl/monad.digital-fabrica.com/api
+Uploading directory: C:\DFT_GCC_TRIAD_MAINSTACK\ARC.SOVEREIGN.GENESIS\monad.digital-fabrica.com\api -> /home3/renewabl/monad.digital-fabrica.com/api

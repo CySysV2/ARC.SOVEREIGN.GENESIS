@@ -1,0 +1,26 @@
+{
+  "epoch": "ΣΩΩ.5.4",
+  "proposal": {
+    "title": "Epoch ΣΩΩ.5.4 Governance Proposal",
+    "description": "This proposal governs the CID registry, DNSLink, and mesh orchestration for epoch ΣΩΩ.5.4. All mesh domains, CIDs, and canisters are mapped for DAO propagation.",
+    "cid_map": "../Bridge/Registry/epoch/ΣΩΩ.5.4/site-cid-map.json",
+    "actions": [
+      {
+        "type": "update_registry",
+        "target": "site-cid-map.json",
+        "epoch": "ΣΩΩ.5.4"
+      },
+      {
+        "type": "update_dnslink",
+        "target": "all_domains",
+        "epoch": "ΣΩΩ.5.4"
+      },
+      {
+        "type": "finalize_epoch",
+        "target": "zkTrail.log",
+        "epoch": "ΣΩΩ.5.4"
+      }
+    ],
+    "status": "scaffolded"
+  }
+} 

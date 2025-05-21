@@ -1,8 +1,21 @@
-<div id='cid-banner' style='background:#222;color:#fff;padding:8px;text-align:center;'></div>
-<script>
-fetch('/api/latest_cid.php')
-  .then(res => res.json())
-  .then(data => {
-    document.getElementById('cid-banner').innerText = `Epoch ${data.epoch} — CID: ${data.cid}`;
-  });
-</script> 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>CID Banner</title>
+  <style>
+    body { font-family: sans-serif; background: #f8f8f8; margin: 0; padding: 0; }
+    #cid-banner { background: #222; color: #fff; padding: 10px; text-align: center; }
+  </style>
+</head>
+<body>
+  <div id="cid-banner">Loading latest CID...</div>
+  <script>
+    fetch('api/latest_cid.php')
+      .then(r => r.json())
+      .then(data => {
+        document.getElementById('cid-banner').textContent = data.cid ? `Latest CID: ${data.cid}` : 'CID not found';
+      });
+  </script>
+</body>
+</html> 

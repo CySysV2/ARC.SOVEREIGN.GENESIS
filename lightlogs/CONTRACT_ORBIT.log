@@ -1,0 +1,16 @@
+{
+    "Timestamp":  "2025-04-03T09:54:27+03:00",
+    "ContractID":  "GCC-CONSTITUTION-ERA0-IVAN-BROSEFUS",
+    "AlignmentStatus":  "Processing",
+    "Status":  "Success",
+    "Steps":  {
+                  "AssetAlignment":  "Complete",
+                  "PlanetaryOps":  "Complete",
+                  "TechTimeline":  "Complete",
+                  "ResourceVector":  "Complete",
+                  "Governance":  "Complete"
+              },
+    "GovernanceStatus":  "Infusing",
+    "VectorStatus":  "Computing",
+    "TimelineStatus":  "Fabricating"
+}
