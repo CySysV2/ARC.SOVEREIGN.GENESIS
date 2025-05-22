@@ -9,11 +9,11 @@
     "dev": "echo 'Attach your dev script here'",
     "build": "echo 'Attach your build script here'",
     "test": "echo 'Attach your test script here'",
-    "build:blog": "vitepress build sites/blog",
-    "build:civic": "vitepress build sites/civic",
-    "build:ip": "vitepress build sites/ip.digital-fabrica.com",
-    "build:qic": "vitepress build sites/qic.digital-fabrica.com",
-    "build:whitepaper": "vitepress build sites/whitepaper",
+    "build:blog": "npx vitepress build sites/blog",
+    "build:civic": "npx vitepress build sites/civic",
+    "build:ip": "npx vitepress build sites/ip.digital-fabrica.com",
+    "build:qic": "npx vitepress build sites/qic.digital-fabrica.com",
+    "build:whitepaper": "npx vitepress build sites/whitepaper",
     "build:fabrics": "vitepress build sites/fabrics",
     "build:media": "vitepress build sites/media.digital-fabrica.com",
     "build:monad": "vitepress build sites/monad.digital-fabrica.com",
@@ -22,6 +22,7 @@
   },
   "dependencies": {
     "ssh2-sftp-client": "^12.0.0",
+    "vite": "^4.5.14",
     "vitepress": "^1.6.3"
   }
 }

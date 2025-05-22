@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "arc-sovereign-genesis": "file:../.."
+  }
+}
